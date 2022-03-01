@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Made by Mark
-subtitle: 'EAT MY COOKIES'
+title: Mixed by Mark
+subtitle: 'Infinitely Sweet'
 description: ''
 keywords:
 author: Taylor Mark
@@ -78,7 +78,7 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: MM-DD-YYYY
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
