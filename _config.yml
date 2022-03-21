@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Mixed by Mark
+title: # Mixed by Mark
 subtitle: 'Infinitely Sweet'
-description: ''
+description: 'Hi'
 keywords:
 author: Taylor Mark
 language: en
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tranquilpeak
+theme: ayer
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

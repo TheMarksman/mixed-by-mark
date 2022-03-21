@@ -1,0 +1,185 @@
+# Menu-Sidebar
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
+  Gallery: http://shenyu-vip.lofter.com
+  Travel: /tags/
+  About: /2019/about
+
+# Subtitle and Typing animation
+# https://github.com/mattboldt/typed.js
+subtitle:
+  enable: false
+ # text: Infinitely Sweet
+ # text2: It's perfect for your hexo blog
+ # text3: Have fun! #Supports up to three lines of text
+  startDelay: 0
+  typeSpeed: 200
+  loop: true
+  backSpeed: 100
+  showCursor: true
+
+# logo
+favicon: /Logo-blue.svg #icon on browser tab
+logo: /images/Logo-white.svg #logo in sidebar menu
+
+# Cover Setting
+# enable: [true|false]；path: [background-image]；logo: [cover-logo-image]
+cover:
+  enable: true
+  path: /images/Cookies.jpg # there are some beautiful cover images in Ayer's directory: /source/images, choose your favorite image to replace it.
+  logo: /images/Logo-blue.svg
+
+# ProgressBar
+progressBar: true
+
+# Boardcast
+broadcast:
+  enable: true
+  type: 2 # 1：custom，2：hitokoto api(https://hitokoto.cn/)
+  text: a clean and elegant theme, fast and responsive. # only work in custom mode
+
+# Article Setting
+# (Use this to excerpt if article is too long：<!--more-->)
+excerpt_link: Read More...
+excerpt_all: false
+
+# Copy code button
+copy_btn: true
+# Share
+share_enable: true
+# If you are not in China, maybe you prefer to set:false
+share_china: false
+# share text
+share_text: Share
+# search text
+search_text: Search
+# nav text
+nav_text:
+  page_prev: Prev Page
+  page_next: Next Page
+  post_prev: Newer Posts
+  post_next: Older Posts
+
+# Catalog in article
+toc: true
+
+# images in the article support click to fullscreen
+image_viewer: true
+
+# https://github.com/willin/hexo-wordcount
+word_count:
+  enable: false
+  # only display in article page(not in index page)
+  only_article_visit: true
+
+# Copyright
+# type：0-close all； 1-only display in article which you have configured copyright: true； 2-all articles
+copyright_type: 2
+
+# Search
+# https://github.com/theme-next/hexo-generator-searchdb
+search: true
+
+# RSS
+# leave it empty if you dont' need
+# rss: /atom.xml
+
+# DarkMode
+darkmode: true
+
+# Canvas background style: 0-close，1-moveline
+canvas_bg: 0
+
+# Custom mouse pointer，replace /images/mouse.cur
+mouse:
+  enable: false
+  path: /images/mouse.cur
+
+# Click effect: 0-close，1-love，2-boom，3-particles
+click_effect: 0
+
+# articleWidth and sidebarWidth
+layout:
+  article_width: 80rem
+  sidebar_width: 8rem
+
+# GitHub Ribbons(https://github.blog/2008-12-19-github-ribbons/)
+github:
+  # (Set false if you don't need)
+  enable: false
+  url: https://github.com/Shen-Yu/hexo-theme-ayer
+
+# pv&uv statistics
+busuanzi:
+  enable: true
+
+# cnzz statistics
+cnzz:
+  enable: true
+  url: #
+
+# Google Analytics
+google_analytics: ""
+# Baidu Analytics
+baidu_analytics: ""
+
+# Mathjax Support
+mathjax: true
+
+# Katex Support
+# note: need change the hexo-renderer，npm un hexo-renderer-marked -S && npm i hexo-renderer-markdown-it-katex -S
+katex:
+  enable: false # true
+  allpost: true
+  copy_tex: false
+
+# since year
+since: 2022
+
+# friends link
+
+# Comment：1、Valine (recommended)；2、Gitalk；3、Twikoo；4、MiniValine
+# You can close the comment section on one of your posts by marking `comments: false` in front-matter.
+
+# 1、Valine [A fast, simple & powerful comment system](https://github.com/xCss/Valine)
+# You need create leancloud account first (https://console.leancloud.app), then put the id|key in below.
+leancloud:
+  enable: false
+  app_id: #
+  app_key: #
+# Valine Setting
+valine:
+  enable: false
+  avatar: mp # (https://valine.js.org/avatar.html)
+  placeholder: Add some comments to my article~ # placeholder
+
+# 2、Gitalk(https://github.com/gitalk/gitalk)
+gitalk:
+  enable: false # true
+  clientID: # GitHub Application Client ID
+  clientSecret: # Client Secret
+  repo: # Repository name
+  owner: # GitHub ID
+  admin: # GitHub ID
+
+# 3、Twikoo(https://github.com/imaegoo/twikoo)
+twikoo:
+  enable: false
+  envId: #
+
+# 4、MiniValine
+# See: https://github.com/MiniValine/MiniValine
+minivaline:
+  enable: false
+  serverURL: https://minivaline.your-domain.com
+
+# advertisement
+# if there is an "ad" word in photo or url，it may blocked by adblock or any other browser extensions
+
+# encrypt settings
+lock:
+  enable: false
+  password: 123456
