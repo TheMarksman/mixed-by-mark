@@ -1,11 +1,5 @@
 <% if (theme.cover.enable) { %>
 <section class="cover">
-    <% if (theme.github.enable && theme.github.url){ %>
-      <%# "GitHub Ribbons" %>
-      <a class="forkMe" href="<%=theme.github.url%>"
-        target="_blank"><img width="149" height="149" src="<%- url_for('images/forkme.png') %>"
-          class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
-    <% } %>
   <div class="cover-frame">
     <div class="bg-box">
       <img src="<%- theme.cover.path %>" alt="image frame" />
@@ -21,11 +15,13 @@
       </div>
       <div>
         <% if (theme.cover.logo) { %>
-        <img
-          src="<%- theme.cover.logo %>"
-          class="cover-logo"
-          alt="<%= config.title %>"
-        />
+        <div class="cover-logo-background">
+          <img
+            src="<%- theme.cover.logo %>"
+            class="cover-logo"
+            alt="<%= config.title %>"
+          />
+        </div>
         <% } %>
       </div>
     </div>

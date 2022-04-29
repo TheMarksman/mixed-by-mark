@@ -1,15 +1,18 @@
 # Menu-Sidebar
 menu:
   Home: /
+  Baking Basics: /Baking-Basics
+  Recipes: /Recipes
+  Holiday Baking: /Holiday-Baking
+  Baking Tips & Tricks: /Baking-Tips-Tricks
+  About Me & Life Updates: /About-Me-Life-Updates
   Archives: /archives
-  Categories: /categories
-  Tags: /tags
-  Gallery: http://shenyu-vip.lofter.com
-  Travel: /tags/
-  About: /2019/about
+  # Categories: /categories
+  # Tags: /tags
+  # Travel: /tags/
+  # About: /2022/about
 
 # Subtitle and Typing animation
-# https://github.com/mattboldt/typed.js
 subtitle:
   enable: false
  # text: Infinitely Sweet
@@ -29,7 +32,7 @@ logo: /images/Logo-white.svg #logo in sidebar menu
 # enable: [true|false]；path: [background-image]；logo: [cover-logo-image]
 cover:
   enable: true
-  path: /images/Cookies.jpg # there are some beautiful cover images in Ayer's directory: /source/images, choose your favorite image to replace it.
+  path: /images/Cookies2.JPG # there are some beautiful cover images in Ayer's directory: /source/images, choose your favorite image to replace it.
   logo: /images/Logo-blue.svg
 
 # ProgressBar
@@ -37,8 +40,8 @@ progressBar: true
 
 # Boardcast
 broadcast:
-  enable: true
-  type: 2 # 1：custom，2：hitokoto api(https://hitokoto.cn/)
+  enable: false
+  type: 1 # 1：custom，2：hitokoto api(https://hitokoto.cn/)
   text: a clean and elegant theme, fast and responsive. # only work in custom mode
 
 # Article Setting
@@ -104,27 +107,12 @@ click_effect: 0
 # articleWidth and sidebarWidth
 layout:
   article_width: 80rem
-  sidebar_width: 8rem
-
-# GitHub Ribbons(https://github.blog/2008-12-19-github-ribbons/)
-github:
-  # (Set false if you don't need)
-  enable: false
-  url: https://github.com/Shen-Yu/hexo-theme-ayer
-
-# pv&uv statistics
-busuanzi:
-  enable: true
-
-# cnzz statistics
-cnzz:
-  enable: true
-  url: #
+  sidebar_width: 12rem
 
 # Google Analytics
-google_analytics: ""
+# google_analytics: ""
 # Baidu Analytics
-baidu_analytics: ""
+# baidu_analytics: ""
 
 # Mathjax Support
 mathjax: true
@@ -174,7 +162,7 @@ twikoo:
 # See: https://github.com/MiniValine/MiniValine
 minivaline:
   enable: false
-  serverURL: https://minivaline.your-domain.com
+  # serverURL: https://minivaline.your-domain.com
 
 # advertisement
 # if there is an "ad" word in photo or url，it may blocked by adblock or any other browser extensions

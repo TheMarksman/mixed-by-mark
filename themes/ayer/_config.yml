@@ -19,14 +19,14 @@ favicon: /Logo-blue.svg #icon on browser tab
 logo: /images/Logo-white.svg #logo in sidebar menu
 
 cover:
-  enable: true
+  enable: false
   path: /images/cover2.jpg # /source/images
   logo: false #/Logo-blue.svg，false
 
 progressBar: true
 
 broadcast:
-  enable: true # true，false
+  enable: false # true，false
   type: 2 # 1：，2：一api(https://hitokoto.cn/)
  # text: 一个安静优雅的hexo主题，快速且响应式。
 
@@ -52,14 +52,9 @@ image_viewer: true
 # https://github.com/willin/hexo-wordcount
 # Front-matter no_word_count: true
 word_count:
-  enable: true
+  enable: false
   only_article_visit: true
 
-#reward_type: 2
-# wording
-#reward_wording: "Reward"
-#alipay: /images/alipay.jpg
-#weixin: /images/wechat.jpg
 
 copyright_type: 2
 
@@ -91,16 +86,9 @@ music:
   id: 22707008
   autoPlay: true
 
-busuanzi:
-  enable: true
-
-cnzz:
-  enable: true
-  url: https://s9.cnzz.com/z_stat.php?id=1278069914&web_id=1278069914
-
 # Google Analytics
-google_analytics: ""
-baidu_analytics: ""
+# google_analytics: ""
+# baidu_analytics: ""
 
 # Mathjax
 mathjax: false
@@ -115,10 +103,10 @@ katex:
 # mermaid (https://mermaid-js.github.io/mermaid/)
 mermaid:
   enable: false
-  cdn: https://cdn.staticfile.org/mermaid/8.14.0/mermaid.min.js
+ # cdn: https://cdn.staticfile.org/mermaid/8.14.0/mermaid.min.js
   theme: forest
 
-since: 2015
+since: 2022
 
 friends_link:
 
@@ -143,7 +131,7 @@ minivaline:
   enable: false
   #  https://minivaline.js.org/docs/cn/#/Options
   # emoticonUrl https://github.com/MiniValine/hexo-next-minivaline
-  serverURL: https://minivaline.your-domain.com
+  # serverURL: https://minivaline.your-domain.com
 
 lock:
   enable: false
