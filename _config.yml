@@ -103,3 +103,9 @@ theme: ayer
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Hexo-generator-search
+  search:
+    path: search.xml
+    field: post
+    format: html

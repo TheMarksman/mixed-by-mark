@@ -4,14 +4,14 @@ date: 2022-04-11 00:00:00
 tags:
 ---
 
-<img style="max-width:30%; float:left; border-radius:2rem; padding:1rem;" src="/images/TurtleTreats.jpg" />
-<div style="font-family: Arial;">
+<img class="top-image" src="/images/TurtleTreats.jpg" />
+<div class="post-body">
 A different take on the previously posted Pretzel Treats, these Turtle Treats are another bit hit. 
-
+<br>
 <!--more-->
 
 <a href="http://localhost:4000/2022/04/11/TurtleTreats/#recipejump">
-<img style="max-width:20%; border-radius:2rem; padding:1rem;" src="/images/JumpToRecipeButton.png" />
+<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
 </a>
 
 These Turtle Treats are exactly like the Pretzel Treats, except they use Rolos instead of Hershey's Hugs and pecans instead of M&M's. They are so satisfying because they give you the perfect salty and sweet mixture, plus the creamy caramel. 
@@ -23,7 +23,7 @@ Just like with the Pretzel Treats, the most time consuming and tedious part of m
 <div style="display: flex;">
 The steps to make the Turtle Treats are the same as the Pretzel Treats. We start by lining a baking sheet with square pretzels, and then place an unwrapped Rolo on the center of each pretzel. The square pretzels work best to keep the chocolate from seeping through to the baking sheet. Keeping the Rolo to the center of the pretzel prevents the treats from sticking together too much, although this is not as big of an issue with the Turtle Treats as it is with the Pretzel Treats. This is because the Rolos do not spread nearly as much as the Hershey's Hugs. 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem;" src="/images/Pretzels.jpg" />
+    <img class="floating-image" src="/images/Pretzels.jpg" />
 </div>
 </div>
 
@@ -46,19 +46,19 @@ Immediately after taking the pan out of the oven, press a pecan into each Rolo. 
             </div>
             <img class="recipe-title-box-img" src="/images/TurtleTreats.jpg" />
             <img 
-                style="max-width:15%; border-radius:2rem;" 
+                class="print-recipe"
                 src="/images/PrintRecipeButton.png"   
                 onclick="printDIV('recipe')" />
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
-        <ul style="font-family: Arial;">
+        <ul class="post-body">
                 <li>Square pretzels</li>
                 <li>Rolos</li>
                 <li>Pecan halves</li>
         </ul>
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Directions</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>Preheat oven to 150°F.</li>
             <li>Place pretzels on an ungreased baking sheet.</li>
             <li>Place a Rolo on the center of each pretzel.</li>
@@ -68,7 +68,7 @@ Immediately after taking the pan out of the oven, press a pecan into each Rolo. 
         </ol> 
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Notes</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>Using square pretzels prevents too much chocolate from flowing through the pretzel and sticking to the pan.</li>
         </ol>
     </div>

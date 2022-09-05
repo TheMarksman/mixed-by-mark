@@ -73,7 +73,7 @@
 <script>
     function viewer_init() {
         let pswpElement = document.querySelectorAll('.pswp')[0];
-        let $imgArr = document.querySelectorAll(('.article-entry img:not(.reward-img)'))
+        let $imgArr = document.querySelectorAll(('.article-entry img:not(.reward-img,.jump-to-recipe,.print-recipe)'))
 
         $imgArr.forEach(($em, i) => {
             $em.onclick = () => {

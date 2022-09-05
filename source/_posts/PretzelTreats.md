@@ -3,14 +3,14 @@ title: Pretzel Treats
 date: 2022-03-31
 tags:
 ---
-<img style="max-width:30%; float:left; border-radius:2rem; padding:1rem;" src="/images/PretzelTreats.jpg" />
-<div style="font-family: Arial;">
+<img class="top-image" src="/images/PretzelTreats.jpg" />
+<div class="post-body">
 Just three simple ingredients: pretzels, Hershey's Hugs, and M&M's. These treats have the perfect combination of salty and sweet, and they are always a big hit.
-
+<br>
 <!--more-->
 
 <a href="http://localhost:4000/2022/03/31/PretzelTreats/#recipejump">
-<img style="max-width:20%; border-radius:2rem; padding:1rem;" src="/images/JumpToRecipeButton.png" />
+<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
 </a>
 
 I used to make these delicious treats in high school, and I was always getting requests for more. They are very easy to make, if not a little time consuming. Honestly, the worst part about making them is unwrapping all of the Hershey's Hugs. I find the most enjoyable way to do this is to plop down in front of the TV and unwrap them all ahead of time while watching one of my favorite shows. It definitely helps to kill the monotony. 
@@ -19,7 +19,7 @@ I used to make these delicious treats in high school, and I was always getting r
 To make Pretzel Treats, there are only a few simple steps. 
 First, line a baking sheet with square pretzels. Using square pretzels is important, because this shape allows the least amount of chocolate to flow through the pretzel, resulting in fewer chocolatey messes and fewer pretzels stuck to the pan. I can usually find the square pretzels in the Snyders of Hanover brand, but any brand will work. 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem;" src="/images/Pretzels.jpg" />
+    <img class="floating-image" src="/images/Pretzels.jpg" />
 </div>
 </div>
 
@@ -43,19 +43,19 @@ Immediately after taking the pan out of the oven, press an M&M into each Hug. Th
             </div>
             <img class="recipe-title-box-img" src="/images/PretzelTreats.jpg" />
             <img 
-                style="max-width:15%; border-radius:2rem;" 
+                class="print-recipe"
                 src="/images/PrintRecipeButton.png"   
                 onclick="printDIV('recipe')" />
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
-        <ul style="font-family: Arial;">
+        <ul class="post-body">
                 <li>Square pretzels</li>
                 <li>Hershey's Hugs</li>
                 <li>M&M's</li>
         </ul>
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Directions</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>Preheat oven to 150°F.</li>
             <li>Place pretzels on an ungreased baking sheet.</li>
             <li>Place a Hershey's Hug on the center of each pretzel.</li>
@@ -65,7 +65,7 @@ Immediately after taking the pan out of the oven, press an M&M into each Hug. Th
         </ol> 
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Notes</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>If using Hershey's Kisses instead of Hugs, baking time will need to be slightly longer, as milk chocolate takes longer to melt than white chocolate.</li>
             <li>Using square pretzels prevents too much chocolate from flowing through the pretzel and sticking to the pan.</li>
         </ol>

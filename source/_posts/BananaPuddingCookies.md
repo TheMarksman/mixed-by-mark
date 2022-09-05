@@ -4,14 +4,14 @@ date: 2022-04-23 00:00:00
 tags:
 ---
 
-<img style="max-width:30%; float:left; border-radius:2rem; padding:1rem;" src="/images/BananaPuddingCookies3.jpg" />
-<div style="font-family: Arial;">
+<img class="top-image" src="/images/BananaPuddingCookies3.jpg" />
+<div class="post-body">
 Banana pudding in cookie form?! That's right! These cookies are so rich in banana flavor, and they are so easy to make!
-
+<br>
 <!--more-->
 
 <a href="http://localhost:4000/2022/04/23/BananaPuddingCookies/#recipejump">
-<img style="max-width:20%; border-radius:2rem; padding:1rem;" src="/images/JumpToRecipeButton.png" />
+<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
 </a>
 
 I recently made these cookies for a ladies night I attended. One of the women asked me, "How many bananas did you have to put in this to get so much banana flavor?" My answer: None. Instead of using fresh bananas, this recipe uses banana pudding mix. Pudding mixes are a wonderful way to add lots of flavor without complicating the recipe. 
@@ -21,7 +21,7 @@ What I love about this recipe, apart from the simplicity, is that you really do 
 <div style="display:flex;">
 This recipe calls for butter shortening. If you're not sure what this is, it can be found in the baking aisle of your grocery store, near the Crisco and cooking spray. It is a butter flavored shortening; I buy Crisco brand, but there may be others out there. 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem; padding:3px;;" src="/images/ButterCrisco.jpg" />
+    <img class="floating-image" style="padding:3px;" src="/images/ButterCrisco.jpg" />
 </div>
 </div>
 
@@ -30,7 +30,7 @@ To make these cookies, start by creaming together the shortening, butter, sugars
 <div style="display:flex;">
 Next, we need to chop the vanilla wafers. I just used a cutting board and knife, and made medium-sized cookie pieces. I would recommend not using a food processor, because it will make more crumbs and less cookie pieces. Once the vanilla wafers are chopped, stir in the wafers and white chocolate chips. I like to do this part by hand so that the cookies don't break up even more. 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem; padding:3px;;" src="/images/BananaPuddingCookies1.jpg" />
+    <img class="floating-image" style="padding:3px;" src="/images/BananaPuddingCookies1.jpg" />
 </div>
 </div>
 
@@ -39,10 +39,10 @@ Then, roll the dough into 1 or 1½ inch balls and place them on a greased baking
 <div style="display:flex;">
 Place the dough balls on a greased baking sheet, and bake for 9 minutes. The cookies will look very underdone, but they will firm up a little as they cool. I find it best to pull cookies out of the oven when they look underdone because we want nice, chewy cookies. And, even after removing them from the oven, cookies will continue to bake a little, because the pan is still hot. This is why it is always recommended to let cookies cool on the pan for just a minute or two, and then remove them to cool completely. 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem; padding:3px;;" src="/images/BananaPuddingCookies2.jpg" />
+    <img class="floating-image" style="padding:3px;" src="/images/BananaPuddingCookies2.jpg" />
 </div>
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem; padding:3px;;" src="/images/BananaPuddingCookies4.jpg" />
+    <img class="floating-image" style="padding:3px;" src="/images/BananaPuddingCookies4.jpg" />
 </div>
 </div>
 
@@ -61,12 +61,12 @@ Place the dough balls on a greased baking sheet, and bake for 9 minutes. The coo
             </div>
             <img class="recipe-title-box-img" src="/images/BananaPuddingCookies3.jpg" />
             <img 
-                style="max-width:15%; border-radius:2rem;" 
+                class="print-recipe" 
                 src="/images/PrintRecipeButton.png"   
                 onclick="printDIV('recipe')" />
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
-        <ul style="font-family: Arial;">
+        <ul class="post-body">
                 <li>½ c butter, softened</li>
                 <li>½ c butter shortening</li>
                 <li>¾ c brown sugar</li>
@@ -82,7 +82,7 @@ Place the dough balls on a greased baking sheet, and bake for 9 minutes. The coo
         </ul>
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Directions</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>Preheat oven to 350°F. Grease baking sheet with cooking spray.</li>
             <li>Cream together butter, shortening, sugars, vanilla, and eggs.</li>
             <li>Slowly add flour, baking soda, salt, and pudding mix. Mix until just incorporated.</li>

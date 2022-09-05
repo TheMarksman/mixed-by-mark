@@ -4,14 +4,14 @@ date: 2022-04-22 00:00:00
 tags:
 ---
 
-<img style="max-width:30%; float:left; border-radius:2rem; padding:1rem;" src="/images/Cookies&CreamCookies5.jpg" />
-<div style="font-family: Arial;">
+<img class="top-image" src="/images/Cookies&CreamCookies5.jpg" />
+<div class="post-body">
 These cookies have Oreos mixed into them; it's like cookie-ception! 
-
+<br>
 <!--more-->
 
 <a href="http://localhost:4000/2022/04/22/CookiesCreamCookies/#recipejump">
-<img style="max-width:20%; border-radius:2rem; padding:1rem;" src="/images/JumpToRecipeButton.png" />
+<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
 </a>
 
 Who doesn't love a good Oreo? You get the sweet chocolate with the creamy center. These cookies have all that and more. They are very rich and indulgent, but they are so easy to make! 
@@ -22,10 +22,10 @@ This recipe uses a cake mix. This means, no measuring of flour or sugar! The onl
 The recipe is very straight-forward. First, I like to go ahead and get the Oreos crushed. To do this, I like to place the cookies in a cake pan, and then use a jar to crush them. This is my preferred method, but there are several other ways of doing this. You could put the cookies in a large Ziploc bag, and then use a rolling pin to crush them. Or, instead of a rolling pin, use a mallet. You could potentially put them in a food processor, but if you do this, make sure not to over-process them. You still want some medium-sized cookie chunks. 
 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem; padding:3px;;" src="/images/Cookies&CreamCookies1.jpg" />
+    <img class="floating-image" style="padding:3px;" src="/images/Cookies&CreamCookies1.jpg" />
 </div>
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem; padding:3px;;" src="/images/Cookies&CreamCookies2.jpg" />
+    <img class="floating-image" style="padding:3px;" src="/images/Cookies&CreamCookies2.jpg" />
 </div>
 </div>
 
@@ -39,10 +39,10 @@ These cookies only need to bake for 9 minutes, on a greased cookie sheet, and th
 One thing to note is that they will look underdone when they are removed from the oven. But don't worry, they will firm up slightly as they cool. 
 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem; padding:3px;;" src="/images/Cookies&CreamCookies4.jpg" />
+    <img class="floating-image" style="padding:3px;" src="/images/Cookies&CreamCookies4.jpg" />
 </div>
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem; padding:3px;;" src="/images/Cookies&CreamCookies3.jpg" />
+    <img class="floating-image" style="padding:3px;" src="/images/Cookies&CreamCookies3.jpg" />
 </div>
 </div>
 
@@ -61,12 +61,12 @@ One thing to note is that they will look underdone when they are removed from th
             </div>
             <img class="recipe-title-box-img" src="/images/Cookies&CreamCookies5.jpg" />
             <img 
-                style="max-width:15%; border-radius:2rem;" 
+                class="print-recipe"
                 src="/images/PrintRecipeButton.png"   
                 onclick="printDIV('recipe')" />
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
-        <ul style="font-family: Arial;">
+        <ul class="post-body">
                 <li>1 box white cake mix</li>
                 <li>1 stick butter, melted</li>
                 <li>1 egg</li>
@@ -78,7 +78,7 @@ One thing to note is that they will look underdone when they are removed from th
         </ul>
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Directions</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>Preheat oven to 350°F. Grease baking sheet.</li>
             <li>Combine cake mix, butter, egg, and vanilla. Beat until a soft dough forms.</li>
             <li>Add the cream cheese. Beat again til combined.</li>

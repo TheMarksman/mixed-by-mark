@@ -4,14 +4,14 @@ date: 2022-04-15 00:00:00
 tags:
 ---
 
-<img style="max-width:30%; float:left; border-radius:2rem; padding:1rem;" src="/images/SmoreCrispyTreats3.jpg" />
-<div style="font-family: Arial;">
+<img class="top-image" src="/images/SmoreCrispyTreats3.jpg" />
+<div class="post-body">
 Who doesn't love s'mores?? Now put them in a Rice Krispy Treat style, and you have all the delicious s'more taste without needing the campfire. 
-
+<br>
 <!--more-->
 
 <a href="http://localhost:4000/2022/04/15/SmoreCrispyTreats/#recipejump">
-<img style="max-width:20%; border-radius:2rem; padding:1rem;" src="/images/JumpToRecipeButton.png" />
+<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
 </a>
 
 These S'more Crispy Treats are so easy to make, and everyone loves them. All you need for these delicious bars is Golden Grahams cereal, mini marshmallows, Hershey's bars, some butter, and a pinch of salt. You essentially make them the same way you would make normal Rice Krispy Treats: melt the butter, add the marshmallows and melt them until smooth. Add in the cereal and stir til coated. The only step this recipe has that the traditional doesn't, is to then stir in the chocolate Hershey's bars pieces and some extra marshmallows. And then you press the entire mixture into a 9x13 pan and let it cool. Easy peasy. 
@@ -19,7 +19,7 @@ These S'more Crispy Treats are so easy to make, and everyone loves them. All you
 <div style="display: flex;">
 What I love about making any type of Rice Krispy Treat is that they only take about 5 minutes to make. There is very little measuring or prep involved, and you can have a dessert made quickly. They are perfect for last minute get-togethers, when you want to have something sweet on hand. 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 30rem;" src="/images/SmoreCrispyTreats1.jpg" />
+    <img class="floating-image" src="/images/SmoreCrispyTreats1.jpg" />
 </div>
 </div>
 
@@ -30,7 +30,7 @@ I will say, I *highly* recommend using mini marshmallows, especially for the mar
 <div style="display: flex;">
 As soon as I started cutting the marshmallows, they were sticking to my hands, my kitchen scissors, the bowl I was putting them in... It was a nightmare. Doable, but not recommended. Finally, after several minutes of struggling against the stickiness, I had my marshamllows cut and ready to go. Then I had to deal with the stickiness again when I went to stir them into my cereal mixture. I had to pull them off the edge of the bowl and then try to get them unstuck from my fingers and into the cereal. Once in the cereal, many of the marshmallows continued to stick together. All in all, it's possible, but not really worth it. If you can't find mini marshmallows at the grocery store, and you're left with only large marshmallows, here's my advice: Simply melt a few more marshmallows with your butter, and forgo stirring in marshmallows at the end.
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 30rem;" src="/images/SmoreCrispyTreats2.jpg" />
+    <img class="floating-image" src="/images/SmoreCrispyTreats2.jpg" />
 </div>
 </div>
 
@@ -49,12 +49,12 @@ As soon as I started cutting the marshmallows, they were sticking to my hands, m
             </div>
             <img class="recipe-title-box-img" src="/images/SmoreCrispyTreats3.jpg" />
             <img 
-                style="max-width:15%; border-radius:2rem;" 
+                class="print-recipe" 
                 src="/images/PrintRecipeButton.png"   
                 onclick="printDIV('recipe')" />
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
-        <ul style="font-family: Arial;">
+        <ul class="post-body">
                 <li>3 Tbsp unsalted butter</li>
                 <li>pinch of salt</li>
                 <li>5 c mini marshmallows, divided</li>
@@ -63,7 +63,7 @@ As soon as I started cutting the marshmallows, they were sticking to my hands, m
         </ul>
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Directions</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>Spray a 9x13 inch pan with cooking spray. Set aside.</li>
             <li>In a large pot, melt butter and salt over medium heat.</li>
             <li>Add 4 cups of marshmallows and stir til completely melted. Remove from heat.</li>
@@ -73,7 +73,7 @@ As soon as I started cutting the marshmallows, they were sticking to my hands, m
         </ol> 
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Notes</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>If using big marshmallows, melt all the marshmallows with the butter and forgo stirring in extra marshmallows at the end.</li>
         </ol>
     </div>

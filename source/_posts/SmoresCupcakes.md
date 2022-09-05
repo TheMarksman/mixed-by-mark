@@ -4,14 +4,14 @@ date: 2022-04-17 00:00:00
 tags:
 ---
 
-<img style="max-width:30%; float:left; border-radius:2rem; padding:1rem;" src="/images/SmoresCupcakes1.jpg" />
-<div style="font-family: Arial;">
+<img class="top-image" src="/images/SmoresCupcakes1.jpg" />
+<div class="post-body">
 S'mores and cupcakes: How could you go wrong? 
-
+<br>
 <!--more-->
 
 <a href="http://localhost:4000/2022/03/31/PretzelTreats/#recipejump">
-<img style="max-width:20%; border-radius:2rem; padding:1rem;" src="/images/JumpToRecipeButton.png" />
+<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
 </a>
 
 I am a big fan of s'mores. I have tried several different s'more recipes: cupcakes, cakes, cookies, rice krispy treats. And every time I see a new s'more recipe, it peaks my interest. 
@@ -19,7 +19,7 @@ I am a big fan of s'mores. I have tried several different s'more recipes: cupcak
 <div style="display: flex;">
 These cupcakes are absolutely delicious, and they look very impressive once fully assembled. However, I will go ahead and note that this recipe is more time consuming than many others I post. Every once in a while, I get in the mood to really invest my time in a new recipe, and I will try something a little more tedious or complicated. These cupcakes take more time because they involve several steps. You have to make the cupcakes themselves. But then you have to make a chocolate ganache that then goes inside the cupcake. And you have to make the frosting too. And then of course garnish and decorate. Although they are a lot of effort, they are delicious! 
 <div>
-    <img style="float:right; border-radius:2rem;max-width: 22rem;" src="/images/SmoresCupcakes2.jpg" />
+    <img class="floating-image" src="/images/SmoresCupcakes2.jpg" />
 </div>
 </div>
 
@@ -40,13 +40,13 @@ For garnishment, I include a graham cracker, mini marshmallow, and piece of Hers
             </div>
             <img class="recipe-title-box-img" src="/images/SmoresCupcakes1.jpg" />
             <img 
-                style="max-width:15%; border-radius:2rem;" 
+                class="print-recipe"
                 src="/images/PrintRecipeButton.png"   
                 onclick="printDIV('recipe')" />
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <p style="font-size:120%;"><b>Cupcakes:</b></p>
-        <ul style="font-family: Arial;">
+        <ul class="post-body">
                 <li>¾ c crushed graham crackers, plus more for garnish</li>
                 <li>1 c all-purpose flour</li>
                 <li>1 c sugar</li>
@@ -63,19 +63,19 @@ For garnishment, I include a graham cracker, mini marshmallow, and piece of Hers
                 <li>Mini marshmallows, for garnish</li>
         </ul>
         <p style="font-size:120%;"><b>Whipped Cream Frosting:</b></p>
-        <ul style="font-family: Arial;">
+        <ul class="post-body">
                 <li>2 c heavy cream</li>
                 <li>1¼ c powdered sugar</li>
                 <li>1 tsp vanilla</li>
         </ul>
         <p style="font-size:120%;"><b>Chocolate Ganache</b></p>
-        <ul style="font-family: Arial;">
+        <ul class="post-body">
                 <li>⅓ c heavy cream</li>
                 <li>1 c chocolate chips</li>
         </ul>
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Directions</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>Preheat oven to 350°F. Line a muffin tin with cupcake liners.</li>
             <li>In a small pan, heat ½ c butter and coffee until the butter is fully melted. Remove from heat and let cool.</li>
             <li>Melt remaining 2 Tbsp butter and mix with crushed graham crackers in a small bowl. Divide the mixture evenly between the cupcake liners. Press the crust into the bottom of each liner. Bake the crust until golden brown, about 5 minutes. Set aside.</li>
@@ -90,7 +90,7 @@ For garnishment, I include a graham cracker, mini marshmallow, and piece of Hers
         </ol> 
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Notes</b></p>
-        <ol style="font-family: Arial;">
+        <ol class="post-body">
             <li>Garnish the cupcakes immediately before serving. If you garnish too much ahead of time, the graham cracker will become soft and soggy.</li>
         </ol>
     </div>
