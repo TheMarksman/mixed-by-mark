@@ -3,6 +3,18 @@ title: Recipes
 date: 2022-04-07 20:09:24
 ---
 <h3>Appetizers</h3>
+<table>
+    <tr>
+        <th>Recipe</th>
+        <th>Bake Time</th>
+        <th>Featured Ingredient(s)</th>
+    </tr>
+    <tr>
+        <td><a href="/2022/08/21/CobbDip/">Cobb Dip</a></td>
+        <td>N/A</td>
+        <td>Ranch mix, Lettuce, Tomato, Corn, Cheese, Bacon bits</td>
+    </tr>
+</table>
 
 <h3>Bars</h3>
 <table>
@@ -10,6 +22,11 @@ date: 2022-04-07 20:09:24
         <th>Recipe</th>
         <th>Bake Time</th>
         <th>Featured Ingredient(s)</th>
+    </tr>
+    <tr>
+        <td><a href="/2022/09/03/ChocolateCrispyTreats/">Chocolate Crispy Treats</a></td>
+        <td>N/A</td>
+        <td>Cocoa Puffs, Marshmallows, Nutella, Chocolate chips, White chocolate chips</td>
     </tr>
     <tr>
         <td><a href="/2022/06/02/NutellaShortbreadBars/">Nutella Shortbread Bars</a></td>
@@ -24,6 +41,17 @@ date: 2022-04-07 20:09:24
 </table>
 
 <h3>Breads & Biscotti</h3>
+<table>
+    <tr>
+        <th>Recipe</th>
+        <th>Bake Time</th>
+        <th>Featured Ingredient(s)</th>
+    </tr>
+    <tr>
+        <td><a href="/2022/08/07/WhiteChocolateCranberryBiscotti/">White Chocolate Cranberry Biscotti</a></td>
+        <td>45-48 minutes</td>
+        <td>White chocolate, Cranberry Almond Crunch cereal</td>
+</table>
 
 <h3>Cakes</h3>
 <table>
@@ -76,6 +104,11 @@ date: 2022-04-07 20:09:24
         <td>Chocolate chips</td>
     </tr>
     <tr>
+        <td><a href="/2022/08/19/ChocolateSnickerdoodles/">Chocolate Snickerdoodles</a></td>
+        <td>12 minutes</td>
+        <td>Unsweetened chocolate, Unsweetened cocoa powder</td>
+    </tr>
+    <tr>
         <td><a href="/2022/04/27/CoconutOatmealCookies/">Coconut Oatmeal Cookies</a></td>
         <td>10 minutes</td>
         <td>Coconut, Oatmeal</td>
@@ -84,6 +117,11 @@ date: 2022-04-07 20:09:24
         <td><a href="/2022/04/22/CookiesCreamCookies/">Cookies & Cream Cookies</a></td>
         <td>9 minutes</td>
         <td>Oreos</td>
+    </tr>
+    <tr>
+        <td><a href="/2022/09/29/FunfettiCookies/">Funfetti Cookies</a></td>
+        <td>10-12 minutes</td>
+        <td>Funfetti cake mix</td>
     </tr>
     <tr>
         <td><a href="/2022/04/17/GingerSnaps/">Ginger Snaps</a></td>
@@ -127,6 +165,11 @@ date: 2022-04-07 20:09:24
         <td><a href="/2022/04/18/ChocPBParfait/">Chocolate Peanut Butter Parfaits</a></td>
         <td>N/A</td>
         <td>Chocolate chips, Peanut butter
+    </tr>
+    <tr>
+        <td><a href="/2022/08/21/ChocCoveredBananaPuddingCups/">Chocolate Covered Banana Pudding Cups</a></td>
+        <td>N/A</td>
+        <td>Vanilla pudding, Fudge sauce, Vanilla wafers, Banana</td>
     </tr>
 </table>
 
