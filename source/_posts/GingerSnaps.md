@@ -47,7 +47,7 @@ You know they are done baking with the tops of the cookies just begin to crack. 
                 <div class="recipe-title-box-title">
                     <div class="recipe-title-box-header">Ginger Snaps</div>
                 </div>
-                <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
+                <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies </p>
             </div>
             {% asset_img recipe-title-box-img GingerSnaps1.jpg %}
             <button class="print-recipe"

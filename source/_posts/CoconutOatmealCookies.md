@@ -40,7 +40,7 @@ Optionally, you can also add some chocolate to these cookies. If desired, simply
                 <div class="recipe-title-box-title">
                     <div class="recipe-title-box-header">Coconut Oatmeal Cookies</div>
                 </div>
-                <p class="recipe-title-box-title" style="font-family:Arial;">Yield: </p>
+                <p class="recipe-title-box-title" style="font-family:Arial;">Yield: about 30 cookies</p>
             </div>
             {% asset_img recipe-title-box-img CoconutOatmealCookies2.jpg %}
             <button class="print-recipe"

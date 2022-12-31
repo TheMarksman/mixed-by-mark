@@ -39,7 +39,7 @@ Immediately after taking the pan out of the oven, press an M&M into each Hug. Th
                 <div class="recipe-title-box-title">
                     <div class="recipe-title-box-header">Pretzel Treats</div>
                 </div>
-                <p class="recipe-title-box-title" style="font-family: Arial;">Yield: dependent on number of Hugs</p>
+                <p class="recipe-title-box-title" style="font-family: Arial;">Yield: dependent on number of Hugs used</p>
             </div>
             {% asset_img recipe-title-box-img PretzelTreats.jpg %}
             <button class="print-recipe"

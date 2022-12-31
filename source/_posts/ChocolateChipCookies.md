@@ -27,6 +27,12 @@ When I was growing up, my mom always baked chocolate chip cookies using her Pamp
 </div>
 </div>
 
+The recipe is simple to make. Start with your softened butter and butter shortening. Cream these together in a stand mixture until they are well combined. Then, add in the sugar, brown sugar, and vanilla. Mix until it is smooth. Next, add in the eggs, and mix again. 
+
+In a separate bowl, combine the flour, baking soda, and salt. Slowly add these dry ingredients to your butter mixture, mixing between each addition. 
+
+Finally, stir in the chocolate chips by hand. Spoon the dough onto the baking sheet and bake for 9-11 minutes. Allow the cookies to sit on the pan for 1-2 minutes before removing to cool completely. 
+
 <br>    
 
 </div>
@@ -73,6 +79,7 @@ When I was growing up, my mom always baked chocolate chip cookies using her Pamp
             <li>Slowly add the flour mixture to the dough, mixing until well combined.</li>
             <li>Fold in the chocolate chips by hand.</li>
             <li>Bake 9-11 minutes on stone baking sheet.</li>
+            <li>Allow the cookies to cool for 1-2 minutes on the pan before removing.</li>
         </ol> 
         <hr style="height:1px;background-color:rgb(189, 189, 189) ">
         <p style="font-size:150%;"><b>Notes</b></p>

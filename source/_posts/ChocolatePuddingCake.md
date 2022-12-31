@@ -33,7 +33,7 @@ The recipe is simple. It involves a yellow cake mix and a package of instant cho
                 <div class="recipe-title-box-title">
                     <div class="recipe-title-box-header">Chocolate Pudding Cake</div>
                 </div>
-                <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
+                <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 large cake or 12 small bundts </p>
             </div>
             {% asset_img recipe-title-box-img ChocPuddingCake.jpg %}
             <button class="print-recipe"
