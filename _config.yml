@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: # Mixed by Mark
+title: Mixed by Mark
 subtitle: 'Infinitely Sweet'
 description: 'Hi'
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://themarksman.github.io
+url: https://themarksman.github.io/mixed-by-mark
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
