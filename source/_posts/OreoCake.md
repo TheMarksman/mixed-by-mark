@@ -27,7 +27,7 @@ But it's not actually hard to make.
 </div>
 </div>
 
-This recipe makes two 9-inch cakes. It is necessary to grease and flour the pans, so that the cakes will come out without sticking. If you are unfamiliar with how to grease and flour pans, refer to my post <a href="/2022/07/04/GreaseFlourPans/">How to Grease & Flour Cake Pans</a>.
+This recipe makes two 9-inch cakes. It is necessary to grease and flour the pans, so that the cakes will come out without sticking. If you are unfamiliar with how to grease and flour pans, refer to my post {% post_link GreaseFlourPans How to Grease & Flour Cake Pans %}.
 
 Remove the cream from the Oreo cookies, and place the cookies into a ziploc bag. Use a rolling pin to crush the Oreos into small pieces. 
 
