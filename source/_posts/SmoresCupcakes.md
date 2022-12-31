@@ -4,14 +4,14 @@ date: 2022-04-17 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/SmoresCupcakes1.jpg" />
+{% asset_img top-image SmoresCupcakes1.jpg %}
 <div class="post-body">
 S'mores and cupcakes: How could you go wrong? 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/03/31/PretzelTreats/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 I am a big fan of s'mores. I have tried several different s'more recipes: cupcakes, cakes, cookies, rice krispy treats. And every time I see a new s'more recipe, it peaks my interest. 
@@ -19,7 +19,7 @@ I am a big fan of s'mores. I have tried several different s'more recipes: cupcak
 <div style="display: flex;">
 These cupcakes are absolutely delicious, and they look very impressive once fully assembled. However, I will go ahead and note that this recipe is more time consuming than many others I post. Every once in a while, I get in the mood to really invest my time in a new recipe, and I will try something a little more tedious or complicated. These cupcakes take more time because they involve several steps. You have to make the cupcakes themselves. But then you have to make a chocolate ganache that then goes inside the cupcake. And you have to make the frosting too. And then of course garnish and decorate. Although they are a lot of effort, they are delicious! 
 <div>
-    <img class="floating-image" src="/images/SmoresCupcakes2.jpg" />
+    {% asset_img floating-image SmoresCupcakes2.jpg %}
 </div>
 </div>
 
@@ -38,11 +38,12 @@ For garnishment, I include a graham cracker, mini marshmallow, and piece of Hers
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 cupcakes</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/SmoresCupcakes1.jpg" />
-            <img 
-                class="print-recipe"
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img SmoresCupcakes1.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <p style="font-size:120%;"><b>Cupcakes:</b></p>

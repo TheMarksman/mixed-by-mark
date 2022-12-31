@@ -3,14 +3,14 @@ title: Pretzel Treats
 date: 2022-03-31
 tags:
 ---
-<img class="top-image" src="/images/PretzelTreats.jpg" />
+{% asset_img top-image PretzelTreats.jpg %}
 <div class="post-body">
 Just three simple ingredients: pretzels, Hershey's Hugs, and M&M's. These treats have the perfect combination of salty and sweet, and they are always a big hit.
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/03/31/PretzelTreats/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 I used to make these delicious treats in high school, and I was always getting requests for more. They are very easy to make, if not a little time consuming. Honestly, the worst part about making them is unwrapping all of the Hershey's Hugs. I find the most enjoyable way to do this is to plop down in front of the TV and unwrap them all ahead of time while watching one of my favorite shows. It definitely helps to kill the monotony. 
@@ -19,7 +19,7 @@ I used to make these delicious treats in high school, and I was always getting r
 To make Pretzel Treats, there are only a few simple steps. 
 First, line a baking sheet with square pretzels. Using square pretzels is important, because this shape allows the least amount of chocolate to flow through the pretzel, resulting in fewer chocolatey messes and fewer pretzels stuck to the pan. I can usually find the square pretzels in the Snyders of Hanover brand, but any brand will work. 
 <div>
-    <img class="floating-image" src="/images/Pretzels.jpg" />
+    {% asset_img floating-image Pretzels.jpg %}
 </div>
 </div>
 
@@ -41,11 +41,12 @@ Immediately after taking the pan out of the oven, press an M&M into each Hug. Th
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: dependent on number of Hugs</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/PretzelTreats.jpg" />
-            <img 
-                class="print-recipe"
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img PretzelTreats.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

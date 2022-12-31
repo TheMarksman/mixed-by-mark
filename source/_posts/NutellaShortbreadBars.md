@@ -4,7 +4,7 @@ date: 2022-06-02 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/NutellaShortbreadBar3.jpg" />
+{% asset_img top-image NutellaShortbreadBar3.jpg %}
 <div class="post-body">
 Any dessert the contains Nutella could only be delicious! Nutella is one of those foods that goes with just about anything... <br>
 Graham crackers: yes <br>
@@ -16,8 +16,8 @@ So why not shortbread?
 
 <!--more-->
 
-<a href="http://localhost:4000/2022/06/02/NutellaShortbreadBars/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 I love these shortbread bars because they are not overly sweet. The shortbread has a saltiness to it that balances out the Nutella really well. And the creaminess of the Nutella pairs well with the crumbly texture of the shortbread. 
 
@@ -30,7 +30,7 @@ The bars are actually very easy to make. Ingredient-wise, they contain items tha
 Needed items include: butter, brown sugar, sugar, vanilla, salt, flour, Nutella, and powedered sugar 
 I use the term "Nutella", because that's the brand everyone knows. But really, you can use any brand of chocolate hazelnut spread. I used the Publix brand because it was a little cheaper, and I honestly can't tell a difference in the taste between legitimate Nutella or the off-brand. 
 <div>
-    <img class="floating-image" src="/images/NutellaShortbreadBar7.jpg" />
+    {% asset_img floating-image NutellaShortbreadBar7.jpg %}
 </div>
 </div>
 
@@ -42,7 +42,7 @@ Finally, we need to add the flour. I highly recommend adding the flour slowly, a
 <div style="display:flex;">
 Once all the flour is added, the dough will be thick and a little crumbly. Next, divide the dough in half. We will use one half to create the bottom of the bars, and the remaining half will be saved for later to create the crumble topping. Press one half of the dough into the bottom of a greased 9x13" pan. Place the remaining half in the fridge for later. 
 <div>
-    <img class="floating-image" src="/images/NutellaShortbreadBar6.jpg" />
+    {% asset_img floating-image NutellaShortbreadBar6.jpg %}
 </div>
 </div>
 
@@ -51,14 +51,14 @@ Bake the bars at 325°F for about 20 minutes, or until the edges are just starti
 <div style="display:flex;">
 Next, we need the remaining dough from the fridge. We want to crumble the rest of the dough on top of the Nutella layer. To do this, I grabbed a chunk of dough, and just pinched off pieces and spaced them around on top of the Nutella. Try to get as much coverage of the Nutella as possible, because the shortbread does not spread much when it's baked. 
 <div>
-    <img class="floating-image" src="/images/NutellaShortbreadBar2.jpg" />
+    {% asset_img floating-image NutellaShortbreadBar2.jpg %}
 </div>
 </div>
 
 The fully assembled bars need to bake for another 30 minutes, or until the crumble topping turns a golden brown color. Let the shortbread cool completely. Finally, just before cutting into bars, lightly sprinkle some powdered sugar on top. 
 <div style="display:flex;">
-    <img style="max-width:30rem; border-radius:2rem;" src="/images/NutellaShortbreadBar1.jpg" />
-    <img style="max-width:30rem; border-radius:2rem;" src="/images/NutellaShortbreadBar4.jpg" />
+    {% asset_img side-by-side NutellaShortbreadBar1.jpg %}
+    {% asset_img side-by-side NutellaShortbreadBar4.jpg %}
 </div>
 
 <br>
@@ -74,11 +74,12 @@ The fully assembled bars need to bake for another 30 minutes, or until the crumb
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 bars</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/NutellaShortbreadBar3.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img NutellaShortbreadBar3.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

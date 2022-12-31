@@ -3,28 +3,28 @@ title: Title
 date: YYYY-MM-DD
 tags:
 ---
-<img class="top-image" src="/images/PretzelTreats.jpg" />
+{% asset_img top-image PretzelTreats.jpg %}
 <div class="post-body">
 Short description
 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/03/31/PretzelTreats/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 Detailed text
 
 <div style="display:flex;">
 <div>
-    <img class="floating-image" src="/images/ButterCrisco.jpg" />
+    {% asset_img floating-image ButterCrisco.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
-    <img style="max-width:30rem; border-radius:2rem; padding:3px;" src="/images/CobbDip2.jpg" />
-    <img style="max-width:30rem; border-radius:2rem; padding:3px;" src="/images/CobbDip3.jpg" />
+    {% asset_img side-by-side CobbDip2 %}
+    {% asset_img side-by-side CobbDip3 %}
 </div>
 
 <br>
@@ -40,11 +40,12 @@ Detailed text
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
             </div>
-            <img class="recipe-title-box-img" src="/images/PretzelTreats.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img ButterCrisco.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

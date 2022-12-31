@@ -4,15 +4,15 @@ date: 2022-08-07 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/WhiteChocolateBiscotti9.jpg" />
+{% asset_img top-image WhiteChocolateBiscotti9.jpg %}
 <div class="post-body">
 Maybe it's just me, but I feel more sophisticated when eating biscotti, as opposed to a cookie or some other dessert. 
 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/08/07/WhiteChocolateCranberryBiscotti/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 This White Chocolate Cranberry Biscotti is a delicious addition to a cup of coffee, tea, or even just to have on its own. It is a delicious treat that will impress whoever you are sharing it with. 
@@ -26,15 +26,15 @@ The dough is actually made very similarly to cookie dough. You cream together th
 Now, you get to add in the cereal and white chocolate. This recipe calls for Cranberry Almond Crunch cereal. It is a Post Great Grains cereal. I don't usually have any trouble finding it at Publix. But, if you're at the store and can't find this one, I'm sure there will be something similar that will taste just as delicious! For the white chocolate, I like to buy a block of white chocolate and chop it up. But, if you're short on time, or just want the convenience, white chocolate chips will work just as well. 
 
 <div style="display:flex;">
-    <img style="max-width:30rem; border-radius:2rem;" src="/images/WhiteChocolateBiscotti1.jpg" />
-    <img style="max-width:30rem; border-radius:2rem;" src="/images/WhiteChocolateBiscotti2.jpg" />
+    {% asset_img side-by-side WhiteChocolateBiscotti1.jpg %}
+    {% asset_img side-by-side WhiteChocolateBiscotti2.jpg %}
 </div>
 
 
 Now that the dough is completely mixed together, make sure your baking sheet is greased. Divide the dough in half, and form each half into an oval disc shape on your baking sheet. I find it easiest to add a little flour to my hands before trying to shape the dough. The dough gets very sticky, and it will be coating your hands very quickly without the flour. 
 <div style="display:flex;">
-    <img style="max-width:30rem; border-radius:2rem;" src="/images/WhiteChocolateBiscotti3.jpg" />
-    <img style="max-width:30rem; border-radius:2rem;" src="/images/WhiteChocolateBiscotti4.jpg" />
+    {% asset_img side-by-side WhiteChocolateBiscotti3.jpg %}
+    {% asset_img side-by-side WhiteChocolateBiscotti4.jpg %}
 </div>
 
 
@@ -42,27 +42,27 @@ Now that the dough is completely mixed together, make sure your baking sheet is 
 Bake the biscotti at 350°F for 30 minutes, until it is slightly browning. 
 Remove the biscotti from the baking sheet and place it on a large cutting board. The dough is still warm and therefore very soft. Make sure to move lift and move it very gently. I usually like to use 2 long spatulas for this. I place one under each side and lift. Once the biscotti is on the cutting board, allow it to cool there for 5 minutes. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/WhiteChocolateBiscotti5.jpg" />
+    {% asset_img floating-image WhiteChocolateBiscotti5.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 After the biscotti is cooled, cut each disc diagonally into slices about half an inch thick. Make sure to do this with a serrated knife. I like to use a long, serrated bread knife. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/WhiteChocolateBiscotti6.jpg" />
+    {% asset_img floating-image WhiteChocolateBiscotti6.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 Once the biscotti is sliced, place the slices back on the baking sheet upright, spaced slightly apart. Place them back in the oven to bake for an additional 15-18 minutes, until they are slightly dried. Once fully baked, remove them from the baking sheet and allow them to cool on wire racks. 
 <div>
-    <img class="floating-image" src="/images/WhiteChocolateBiscotti7.jpg" />
+    {% asset_img floating-image WhiteChocolateBiscotti7.jpg %}
 </div>
 </div>
 
 Once the biscotti is fully cooled, you can drizzle chocolate or dip them in chocolate. This step is optional, but highly recommended. I like to use dark chocolate, but milk chocolate tastes delicious too. I prefer drizzling the chocolate. The easiest way to do this, as I have found, is to keep the biscotti laid out on the wire racks. Place some wax paper underneath the racks to catch the chocolate that drips through. Then drizzle your chocolate over all the biscotti slices. It is still a messy process, but the wax paper helps a lot. 
 <div>
-    <img style="max-width:30rem; border-radius:2rem;" src="/images/WhiteChocolateBiscotti8.jpg" />
+    {% asset_img side-by-side WhiteChocolateBiscotti8.jpg %}
 </div>
 
 <br>
@@ -78,11 +78,12 @@ Once the biscotti is fully cooled, you can drizzle chocolate or dip them in choc
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: About 20 biscotti</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/WhiteChocolateBiscotti9.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img WhiteChocolateBiscotti9.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

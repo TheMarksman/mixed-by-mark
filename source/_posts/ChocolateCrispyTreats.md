@@ -4,15 +4,15 @@ date: 2022-09-03 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/ChocCrispyTreats2.jpg" />
+{% asset_img top-image ChocCrispyTreats2.jpg %}
 <div class="post-body">
 These chocolate crispy treats are rich, delicious, and so easy to make! 
 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/09/03/ChocolateCrispyTreats/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 We had my family over for dinner a couple weeks ago. And so of course, I wanted to make a dessert for the occasion. I made these treats, not really knowing how they would turn out. But, when these bars include Cocoa Puffs, Nutella, marshmallows, and chocolate chips, how could they possibly be anything but delicious?! 
@@ -22,7 +22,7 @@ However, they turned out even better than expected! They are very chocolate-y, a
 <div style="display:flex;">
 And, in addition to being delicious, these bars are also super easy to make. You make them in the same way you would Rice Krispy treats. Start by greasing a 9x13-inch pan. Otherwise, your bars will stick to the pan, and you'll have a big mess trying to get them out. 
 <div>
-    <img class="floating-image" src="/images/ChocCrispyTreats6.jpg" />
+    {% asset_img floating-image ChocCrispyTreats6.jpg %}
 </div>
 </div>
 
@@ -31,14 +31,14 @@ In a large pot over medium heat, melt the butter. Once it is fully melted, add 1
 <div style="display:flex;">
 Now, add the Cocoa Puffs, remaining marshmallows, chocolate chips, and white chocolate chips. Mix until all the dry ingredients are well coated with melted marshmallow. Finally, press the mixture into the greased 9x13-inch pan. If it's sticky and difficult to deal with, a good tip is to spray some grease on your hands to keep the marshmallows from sticking to them. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/ChocCrispyTreats4.jpg" />
+    {% asset_img floating-image ChocCrispyTreats4.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 Allow the bars to fully cool before cutting them and eating. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/ChocCrispyTreats1.jpg" />
+    {% asset_img floating-image ChocCrispyTreats1.jpg %}
 </div>
 </div>
 
@@ -55,11 +55,12 @@ Allow the bars to fully cool before cutting them and eating.
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 bars</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/ChocCrispyTreats2.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img ChocCrispyTreats2.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

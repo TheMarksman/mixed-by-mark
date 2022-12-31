@@ -4,7 +4,7 @@ date: 2022-07-04 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/July4Blueberries2.jpg" />
+{% asset_img top-image July4Blueberries2.jpg %}
 <div class="post-body">
 Happy 4<sup>th</sup> of July! These blueberry treats are a delicious and festive snack for the holiday. 
 
@@ -26,21 +26,21 @@ So what do you need to make these?
 <div style="display:flex;">
 By "white chocolate bark", I mean something like this one to the right. It could be called bark or chocolate coating. This kind of chocolate will harden well after it cools. It is the kind of chocolate I use for anything that I dip in chocolate. Making chocolate dipped pretzels, chocolate covered Oreos, etc? Chocolate bark is the way to go. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/WhiteChocolateBark.jpg" />
+    {% asset_img floating-image WhiteChocolateBark.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 And, in case you don't know what sugar sprinkles are, they look like those pictured to the right. They are essentially just sugar crystals with coloring. You can find them in pretty much any color you want. Currently at my house, I have red, green, orange, black, gold, and silver. These sprinkles are great for all types of decorating. Cakes, cupcakes, sugar cookies, etc. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/RedSugarSprinkles.jpg" />
+    {% asset_img floating-image RedSugarSprinkles.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 So, first thing: Put the blueberries on the toothpicks. You need 3 blueberries per toothpick. I tried to have the 3 blueberries all about the same size. Not very important, just makes them look neater. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/July4Blueberries1.jpg" />
+    {% asset_img floating-image July4Blueberries1.jpg %}
 </div>
 </div>
 
@@ -51,7 +51,7 @@ Dip the bottom two blueberries into the white chocolate. Then, dip the bottom bl
 <div style="display:flex;">
 Once the chocolate hardens, you can enjoy your blueberry treat! They didn't turn out quite as neat as I had hoped. In future, I may wait just a minute after dipping the blueberries in the chocolate before dipping them into the sprinkles. When I made mine, I went from white chocolate to sprinkles immediately, so they chocolate was still very very hot. Because of this, the chocolate started to drip while I was dipping it into the sprinkles. 
 <div>
-    <img class="floating-image" src="/images/July4Blueberries2.jpg" />
+    {% asset_img floating-image July4Blueberries2.jpg %}
 </div>
 </div>
 

@@ -4,14 +4,14 @@ date: 2022-04-13 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/PBMonsterCookies2.jpg" />
+{% asset_img top-image PBMonsterCookies2.jpg %}
 <div class="post-body">
 Full of peanut butter, peanut butter chips, Reese's Pieces, and oats, these cookies are full of flavor and an excellent choice for any peanut butter lover like myself. 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/04/13/PBMonsterCookies/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 Despite my love of peanut butter, I have never been a big fan on the traditional peanut butter cookie. I'm not entirely sure why. But when I eat them, I always crave something more, an additional texture or flavor. 
@@ -22,7 +22,7 @@ But these Peanut Butter Monster Cookies have everything I want. The Reese's Piec
 They are full of a rich peanut butter flavor, are very easy to make, and loved by all who eat them (assuming they like peanut butter 😋). 
 
 <div>
-    <img class="floating-image" src="/images/PBMonsterCookies3.jpg" />
+    {% asset_img floating-image PBMonsterCookies3.jpg %}
 </div>
 </div>
 
@@ -39,11 +39,12 @@ They are full of a rich peanut butter flavor, are very easy to make, and loved b
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
             </div>
-            <img class="recipe-title-box-img" src="/images/PBMonsterCookies2.jpg" />
-            <img 
-                class="print-recipe"
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img PBMonsterCookies2.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

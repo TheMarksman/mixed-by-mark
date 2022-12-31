@@ -4,7 +4,7 @@ date: 2022-07-04 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/July4Cake11.jpg" />
+{% asset_img top-image July4Cake11.jpg %}
 <div class="post-body">
 When frosting a cake, starting with a crumb coat allows for the final cake to look neater and more professional. 
 

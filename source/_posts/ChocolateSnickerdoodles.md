@@ -4,15 +4,15 @@ date: 2022-08-19 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/ChocSnickerdoodle6.jpg" />
+{% asset_img top-image ChocSnickerdoodle6.jpg %}
 <div class="post-body">
 These chocolate snickerdoodles are a very rich treat. 
 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/08/19/ChocolateSnickerdoodles/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 I like this recipe because these cookies are pretty simple, not a lot of extra ingredients added in, but they are a little different than some other cookies you'll see. They aren't your typical chocolate chip cookies, sugar cookies, peanut butter cookies, or ordinary snickerdoodles. They aren't difficult to make either. But you do have to account for some time to chill the dough. 
@@ -21,7 +21,7 @@ I like this recipe because these cookies are pretty simple, not a lot of extra i
 So, where do we start? 
 First, melt the unsweetened chocolate, then set the bowl aside to cool. I used Baker's chocolate, which worked out perfectly because it is exactly 4 ounces. But any unsweetened chocolate will be fine. 
 <div>
-    <img class="floating-image" src="/images/BakingChocolate.jpg" />
+    {% asset_img floating-image BakingChocolate.jpg %}
 </div>
 </div>
 
@@ -30,21 +30,21 @@ Then, cream together the butter and sugar using a stand mixer. Once finished, it
 <div style="display:flex;">
 Next, in a separate bowl, combine the flour, cream of tartar, cocoa powder, baking soda, baking powder, and salt. Then the flour mixture needs to be added in to the butter/sugar mixture. As with all cookie doughs, the flour should be added in slowly. If you just dump all the flour into the mixer and turn it on, flour will fly everywhere. It makes a huge mess. I usually take a ¼ cup measuring cup and get a scoop of flour, mix it in, then add another scoop of flour and mix. I continue this until all the flour is mixed in. The dough will be pretty thick once all the flour is in. Set the dough in the fridge to chill for about 2 hours. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/ChocSnickerdoodle1.jpg" />
+    {% asset_img floating-image ChocSnickerdoodle1.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 After the dough has chilled, preheat the oven to 350°F. Grease your baking sheet with some cooking spray. Then mix the remaining ⅓ cup of sugar and 1½ tablespoons of cinnamon in a small bowl. Scoop out your dough and roll it into the cinnamon/sugar mixture before placing on the baking sheet. Keep the remaining cinnamon/sugar for later - don't throw it away yet. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/ChocSnickerdoodle2.jpg" />
+    {% asset_img floating-image ChocSnickerdoodle2.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 Bake the cookies for 12 minutes, or until the edges just begin to crack. Pull the cookies out of the oven. While they are still warm, sprinkle some of the remaining cinnamon/sugar mixture onto the top of the cookies. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/ChocSnickerdoodle4.jpg" />
+    {% asset_img floating-image ChocSnickerdoodle4.jpg %}
 </div>
 </div>
 
@@ -61,11 +61,12 @@ Bake the cookies for 12 minutes, or until the edges just begin to crack. Pull th
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/ChocSnickerdoodle6.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img ChocSnickerdoodle6.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <p style="font-size:120%;"><b>Dough:</b></p>

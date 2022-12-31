@@ -4,16 +4,15 @@ date: 2022-05-04 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/WhiteChocMacNutCookies2
-.jpg" />
+{% asset_img top-image WhiteChocMacNutCookies2.jpg %}
 <div class="post-body">
 If you're a fan of white chocolate and nuts, these are the cookies for you!
 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/05/04/WhiteChocMacadamiaNutCookies/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 Personally, white chocolate macadamia nut cookies have never been my favorite. I don't dislike them, but if there is a different cookie option, I usually go with whatever else is available. Because of this, I had never actually made these cookies before, just never had a desire to. 
@@ -26,7 +25,7 @@ For this recipe, you, of course, need white chocolate and macadamia nuts. I like
 The rest of the recipe is similar to most cookie recipes. Cream together the butter and sugars until they are light and fluffy. Mix in the egg and vanilla. Then, add in the dry ingredients: flour, baking soda, and salt. 
 Finally, stir in the white chocolate and macadamia nuts, roll the dough into balls, and bake. 
 <div>
-    <img class="floating-image" src="/images/WhiteChocMacNutCookies1.jpg" />
+    {% asset_img floating-image WhiteChocMacNutCookies1.jpg %}
 </div>
 </div>
 
@@ -45,11 +44,12 @@ It is recommended to refrigerate the dough before baking, but this is not strict
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 24 cookies</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/WhiteChocMacNutCookies2.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img WhiteChocMacNutCookies2.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

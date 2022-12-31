@@ -4,15 +4,15 @@ date: 2022-09-29 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/FunfettiCookies4.jpg" />
+{% asset_img top-image FunfettiCookies4.jpg %}
 <div class="post-body">
 Who doesn't love a delicious Funfetti cake? Well now you can have it in cookie form. 
 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/09/29/FunfettiCookies/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 I made these cookies for Elayne's birthday party. Because what better occasion to make birthday cake cookies than a birthday party?? 
@@ -23,7 +23,7 @@ I made these cookies for Elayne's birthday party. Because what better occasion t
 <div style="display:flex;">
 The cookies tasted delicious - with that distinctly sweet cake batter flavor. The kids, and adults too, all loved them. And since they're made using cake batter, they're very quick and easy to make. You don't need many ingredients, and they don't take much time. 
 <div>
-    <img class="floating-image" src="/images/FunfettiCookies1.jpg" />
+    {% asset_img floating-image FunfettiCookies1.jpg %}
 </div>
 </div>
 
@@ -32,14 +32,14 @@ To make these cookies, start by creaming together butter and sugar using a stand
 <div style="display:flex;">
 Next, add in the cake mix and flour. Mix until all ingredients are incorporated. The dough will be very thick. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/FunfettiCookies2.jpg" />
+    {% asset_img floating-image FunfettiCookies2.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 Finally, scoop the dough into balls and place them onto a greased baking sheet. Bake the cookies for 10-12 minutes at 350°F. The cookies will not spread much, so they will still be partially ball-shaped. If you would prefer for them to be more cookie-shaped, I would recommend pressing the balls of dough with the palm of your hand to flatten them slightly before baking. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/FunfettiCookies3.jpg" />
+    {% asset_img floating-image FunfettiCookies3.jpg %}
 </div>
 </div>
 
@@ -56,11 +56,12 @@ Finally, scoop the dough into balls and place them onto a greased baking sheet. 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 34 cookies</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/FunfettiCookies4.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img FunfettiCookies4.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

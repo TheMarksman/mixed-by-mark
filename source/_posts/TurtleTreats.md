@@ -4,14 +4,14 @@ date: 2022-04-11 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/TurtleTreats.jpg" />
+{% asset_img top-image TurtleTreats.jpg %}
 <div class="post-body">
 A different take on the previously posted Pretzel Treats, these Turtle Treats are another bit hit. 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/04/11/TurtleTreats/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 These Turtle Treats are exactly like the Pretzel Treats, except they use Rolos instead of Hershey's Hugs and pecans instead of M&M's. They are so satisfying because they give you the perfect salty and sweet mixture, plus the creamy caramel. 
@@ -23,7 +23,7 @@ Just like with the Pretzel Treats, the most time consuming and tedious part of m
 <div style="display: flex;">
 The steps to make the Turtle Treats are the same as the Pretzel Treats. We start by lining a baking sheet with square pretzels, and then place an unwrapped Rolo on the center of each pretzel. The square pretzels work best to keep the chocolate from seeping through to the baking sheet. Keeping the Rolo to the center of the pretzel prevents the treats from sticking together too much, although this is not as big of an issue with the Turtle Treats as it is with the Pretzel Treats. This is because the Rolos do not spread nearly as much as the Hershey's Hugs. 
 <div>
-    <img class="floating-image" src="/images/Pretzels.jpg" />
+    {% asset_img floating-image Pretzels.jpg %}
 </div>
 </div>
 
@@ -44,11 +44,12 @@ Immediately after taking the pan out of the oven, press a pecan into each Rolo. 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: dependent on number of Rolos used</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/TurtleTreats.jpg" />
-            <img 
-                class="print-recipe"
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img TurtleTreats.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

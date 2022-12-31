@@ -4,7 +4,7 @@ date: 2022-07-04 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/July4Cake2.jpg" />
+{% asset_img top-image July4Cake2.jpg %}
 <div class="post-body">
 Happy 4<sup>th</sup>! We actually celebrated with my family yesterday. 
 
@@ -13,7 +13,7 @@ Happy 4<sup>th</sup>! We actually celebrated with my family yesterday.
 
 No fireworks for us this year, because Elayne is only 9 months old, and her bedtime is at 7:00. So we definitely were not about to try to keep her up until 10:00pm. But, we got together with family earlier in the day, went to a brewery, and then had an early dinner at my parents' house. It was actually really nice not fighting crowds and traffic to go see fireworks. I've always loved watching fireworks, but sometimes it just feels like it's a lot of work to get there hours early and camp out your spot, all for a show that lasts 20 minutes. So I really enjoyed our relaxing day instead. And I think Elayne had a good first 4<sup>th</sup> of July. 
 
-<img style="max-width:30rem; border-radius:2rem;" src="/images/ElayneJuly4.jpg" />
+{% asset_img side-by-side ElayneJuly4.jpg %}
 
 So since the family was getting together, I offered to bring dessert, because I had been wanting to try this cake. 
 Just an ordinary white cake, but it looks like an American flag when you cut into the middle! I have seen pictures where other people have made them, but I've never tried it myself. Overall, it turned out better than I expected, although my cake layers are not very uniform. That is something I want to work on. I'm planning to buy some of the cake strips that make your cakes bake evenly, but I haven't tried them yet. But you can still tell that my cake is an American flag, so I call that a success! 
@@ -29,7 +29,7 @@ I found it easiest to make the batter from one box at a time. Then divide this b
 So, make the batter with the first box. Divide it in half. One half can remain without food coloring (this will be your white cake). In the other half, mix your blue food coloring. 
 In the blue cake, I also decided to try something new. I got some white chocolate chips, coated them in a little flour, and mixed them into my blue cake mix. The purpose of coating them in flour is so that the chips don't all sink to the bottom of the cake. My hope was that the white chocolate chips would look like the stars on the flag. I will say, this didn't work quite as well as I had hoped. The chocolate chips were delicious in the cake, so that's a win. But many of them did still fall toward the bottom of the cake (maybe I needed more flour?), and you really couldn't see them much when you cut the cake. It was still worth a try, and if I make this cake again, I will probably add them again, if for no other reason than people really seemed to enjoy the surprise of tasting them in there. 
 <div>
-    <img class="floating-image" src="/images/July4Cake4.jpg" />
+    {% asset_img floating-image July4Cake4.jpg %}
 </div>
 </div>
 
@@ -37,7 +37,7 @@ In the blue cake, I also decided to try something new. I got some white chocolat
 <div style="display:flex;">
 Next, make the batter with the second box. There is no need to divide this batter, as we need 2 red cakes. So mix your red food coloring into the entire batch of batter. 
 <div>
-    <img class="floating-image" src="/images/July4Cake1.jpg" />
+    {% asset_img floating-image July4Cake1.jpg %}
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Your cake pans need to be greased and floured before pouring the batter into the
 <div style="display:flex;">
 Bake your cakes as directed on the box or in your recipe. Then let the cakes cool before removing from the pans. If your cakes are still warm when you try to cut them, they will fall apart much more easily. Also, if the cakes are still warm when you begin frosting them, the icing will become melty and messy. Neither of which is what we want. 
 <div>
-    <img class="floating-image" src="/images/July4Cake7.jpg" />
+    {% asset_img floating-image July4Cake7.jpg %}
 </div>
 </div>
 
@@ -61,14 +61,14 @@ For the red cakes, use the bread knife to cut the 1<sup>st</sup> cake in half, r
 <div style="display:flex;">
 After cutting all the cakes, you end up with the following pieces: 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/July4Cake9.jpg" />
+    {% asset_img floating-image July4Cake9.jpg %}
 </div>
 </div>
 
 <div style="display:flex;">
 ...and the following pieces that can be discarded: 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/July4Cake8.jpg" />
+    {% asset_img floating-image July4Cake8.jpg %}
 </div>
 </div>
 
@@ -84,18 +84,18 @@ Now that your cakes are cut, you can begin assembling! You'll want to place each
 <div style="display:flex;">
 Once it is fully assembled with all of the above layers, your cake should look like this: 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/July4Cake10.jpg" />
+    {% asset_img floating-image July4Cake10.jpg %}
 </div>
 </div>
 
 Now, we want to apply a crumb coat of icing. If you're short on time, you could skip this step. It isn't crucial, but...having a crumb coat will make your final layer of frosting look much neater. Your choice. If you don't know how to do a crumb coat, visit my post <a href="/2022/07/04/CrumbCoat/">How to Apply a Crumb Coat of Icing</a>. 
 
-<div style="text-align:right;"><img style="max-width:20rem; border-radius:2rem;" src="/images/July4Cake11.jpg" /></div>
+<div style="text-align:right;">{% asset_img floating-image July4Cake11.jpg %}</div>
 
 <div style="display:flex;">
 After the crumb coat is applied and your cake has chilled, you can add the final layer of frosting and then decorate your cake! I chose to keep the frosting layer white and add blue and red borders and fireworks. This is mostly because I enjoy piping icing. For me, piping icing always turns out looking better than simply spreading it onto the cake. I think this is because I always criticize my own work, and I always see my icing as messy when I spread it on. So, adding piped icing both covers up some messy spots, and also distracts from looking at the spread icing. But any decoration you want is great! That's one of the best things about baking; it allows you to be creative and try out some new things. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/July4Cake12.jpg" />
+    {% asset_img floating-image July4Cake12.jpg %}
 </div>
 </div>
 

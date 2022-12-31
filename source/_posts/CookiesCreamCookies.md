@@ -4,14 +4,14 @@ date: 2022-04-22 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/Cookies&CreamCookies5.jpg" />
+{% asset_img top-image Cookies&CreamCookies5.jpg %}
 <div class="post-body">
 These cookies have Oreos mixed into them; it's like cookie-ception! 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/04/22/CookiesCreamCookies/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 Who doesn't love a good Oreo? You get the sweet chocolate with the creamy center. These cookies have all that and more. They are very rich and indulgent, but they are so easy to make! 
@@ -22,10 +22,10 @@ This recipe uses a cake mix. This means, no measuring of flour or sugar! The onl
 The recipe is very straight-forward. First, I like to go ahead and get the Oreos crushed. To do this, I like to place the cookies in a cake pan, and then use a jar to crush them. This is my preferred method, but there are several other ways of doing this. You could put the cookies in a large Ziploc bag, and then use a rolling pin to crush them. Or, instead of a rolling pin, use a mallet. You could potentially put them in a food processor, but if you do this, make sure not to over-process them. You still want some medium-sized cookie chunks. 
 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/Cookies&CreamCookies1.jpg" />
+    {% asset_img floating-image Cookies&CreamCookies1.jpg %}
 </div>
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/Cookies&CreamCookies2.jpg" />
+    {% asset_img floating-image Cookies&CreamCookies2.jpg %}
 </div>
 </div>
 
@@ -39,10 +39,10 @@ These cookies only need to bake for 9 minutes, on a greased cookie sheet, and th
 One thing to note is that they will look underdone when they are removed from the oven. But don't worry, they will firm up slightly as they cool. 
 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/Cookies&CreamCookies4.jpg" />
+    {% asset_img floating-image Cookies&CreamCookies4.jpg %}
 </div>
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/Cookies&CreamCookies3.jpg" />
+    {% asset_img floating-image Cookies&CreamCookies3.jpg %}
 </div>
 </div>
 
@@ -59,11 +59,12 @@ One thing to note is that they will look underdone when they are removed from th
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/Cookies&CreamCookies5.jpg" />
-            <img 
-                class="print-recipe"
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img Cookies&CreamCookies5.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

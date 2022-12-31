@@ -4,15 +4,15 @@ date: 2022-04-12 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/ChocolateChipCookies.jpg" />
+{% asset_img top-image ChocolateChipCookies.jpg %}
 
 <div class="post-body">
 Chocolate Chip Cookies: The simplest and yet most satisfying cookie of all time. 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/04/12/ChocolateChipCookies/#recipejump">
-    <img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 For such a simple and common cookie, Chocolate Chip is always a crowd-pleaser. These cookies have both the satisfying sweet dough that makes the perfect cookie base, but then when you add chocolate, it can only improve. Because it is not over-the-top sweet, these cookies pair nicely with everything: milk, coffee, other cookies 😉
@@ -23,7 +23,7 @@ The butter flavored shortening can be found near the Crisco in the baking aisle 
 <div style="display: flex;">
 When I was growing up, my mom always baked chocolate chip cookies using her Pampered Chef stone baking sheet. It's funny the things we pick up from our parents. Because of this, I always bake my chocolate chip cookies using a stone baking sheet. But I don't usually think about baking other cookies on stone... You can choose to bake these cookies on a stone baking sheet, or just use your favorite one. They should turn out great either way.
 <div>
-    <img class="floating-image" src="/images/ButterCrisco.jpg" />
+    {% asset_img floating-image ButterCrisco.jpg %}
 </div>
 </div>
 
@@ -42,11 +42,12 @@ When I was growing up, my mom always baked chocolate chip cookies using her Pamp
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/ChocolateChipCookies.jpg" />
-            <img 
-                class="print-recipe"
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img ChocolateChipCookies.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

@@ -4,7 +4,7 @@ date: 2022-05-07 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/EasterCake2.jpg" />
+{% asset_img top-image EasterCake2.jpg %}
 <div class="post-body">
 Want a cute cake to make for Easter? This one is not nearly as complicated as it looks! 
 
@@ -18,7 +18,7 @@ As is usually the case, I didn't have the time to do something super complicated
 <div style="display:flex;">
 So how does one go about making a bird nest cake?? Well first, you need a cake. I used a simple box cake mix, and I made 2 round cakes. It honestly doesn't matter what type of cake you make: chocolate, vanilla, strawberry, you name it. I let the cakes bake and cool fully. 
 <div>
-    <img class="floating-image" src="/images/EasterCake3.jpg" />
+    {% asset_img floating-image EasterCake3.jpg %}
 </div>
 </div>
 
@@ -32,7 +32,7 @@ Once the middle of the cake was removed, I used my knife to smooth out the edges
 Now, it's time for the frosting. Spread a layer of frosting over the entire cake. It does not need to be a thick layer, as you will be adding more to create the nest effect. 
 Place the remaining frosting in a pastry bag, fitted with a decorating tip. I chose to use a small round tip, so that the frosting could come out looking like twigs. But you can use a fancier tip is desired. Rotating around the cake, squeeze the frosting in a mostly random pattern. I ended up going around the cake a few times, so that I could put the base layer of "nest", and then add more to create a layered effect, making it look more realistic. It was a little time consuming, but it was not difficult. 
 <div>
-    <img class="floating-image" src="/images/EasterCake1.jpg" />
+    {% asset_img floating-image EasterCake1.jpg %}
 </div>
 </div>
 

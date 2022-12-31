@@ -4,15 +4,15 @@ date: 2022-08-21 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/CobbDip5.jpg" />
+{% asset_img top-image CobbDip5.jpg %}
 <div class="post-body">
 Do you want a really easy and delicious appetizer? This is it! 
 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/08/21/CobbDip/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 Whether you're the type of host who likes to make all the food from scratch (like me), or you're just needing to throw something together before a few friends come over, this dip will be perfect for you. 
@@ -22,21 +22,21 @@ We were having a couple friends over to watch an Atlanta United game one night. 
 <div style="display:flex;">
 It was sooo easy to make, and since it's served cold, I was able to make it ahead of time and just pull it out the fridge when our friends arrived. And it doesn't require too many ingredients either. Everyone loved it! My friends even asked for the recipe so that they could make it at home. 
 <div>
-    <img class="floating-image" src="/images/CobbDip1.jpg" />
+    {% asset_img floating-image CobbDip1.jpg %}
 </div>
 </div>
 
 Here's how you make it: 
 First, use a hand mixer to beat together the cream cheese, sour cream, and Ranch mix until they are well combined and the mixture is smooth. Spread this mixture into the bottom of a pie dish (or really, any medium-sized serving dish will work). 
 <div style="display:flex;">
-    <img style="max-width:30rem; border-radius:2rem; padding:3px;" src="/images/CobbDip2.jpg" />
-    <img style="max-width:30rem; border-radius:2rem; padding:3px;" src="/images/CobbDip3.jpg" />
+    {% asset_img side-by-side CobbDip2.jpg %}
+    {% asset_img side-by-side CobbDip3.jpg %}
 </div>
 
 <div style="display:flex;">
 Then you'll need to chop up your Romaine lettuce, and layer it on top of your Ranch mixture. I chopped up the lettuce pretty small, in order to make it easier to eat. Anytime I order a salad at a restaurant, it always bugs me when they give me giant pieces of lettuce that I can't even fit in my mouth. So same principle applies here. Nice and small pieces of lettuce will be much easier to eat.
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/CobbDip4.jpg" />
+    {% asset_img floating-image CobbDip4.jpg %}
 </div>
 </div>
 
@@ -45,7 +45,7 @@ Finally, layer the rest of your toppings. After the lettuce, add the diced tomat
 <div style="display:flex;">
 Once all your layers are added, you're ready to eat! I like to serve this dip with tortilla chips. But I'm sure it would be delicious with crackers or other chips as well. 
 <div>
-    <img class="floating-image" src="/images/CobbDip5.jpg" />
+    {% asset_img floating-image CobbDip5.jpg %}
 </div>
 </div>
 <br>
@@ -61,11 +61,12 @@ Once all your layers are added, you're ready to eat! I like to serve this dip wi
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 pie plate of dip </p>
             </div>
-            <img class="recipe-title-box-img" src="/images/CobbDip5.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img CobbDip5.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

@@ -4,14 +4,14 @@ date: 2022-04-18 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/PBChocParfait2.jpg" />
+{% asset_img top-image PBChocParfait2.jpg %}
 <div class="post-body">
 Chocolate and peanut butter: a pairing as iconic as milk and cookies. These parfaits are the perfect dessert for when you want to make an impression. 
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/04/18/ChocPBParfait/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 Chocolate and peanut butter please even those who don't have a wide variety of food favorites, like many kids. But these parfaits can be enjoyed by adults and kids alike. Who doesn't love a sweet treat after dinner? 
@@ -22,7 +22,7 @@ I will say, they are a little tedious to make. Not difficult, it just takes a li
 Now, I keep talking about piping the mousse. What does that mean? By this, I mean that I put the mousse into a pastry bag that has a cake decorating tip on it. Then the mousse is squeezed through the tip and into the serving glass. The cake decorating tips are those that are used to pipe frosting onto a cake in several different pretty designs. For these parfaits, I would recommend using tips with a larger opening. You can't be piping the mousses, especially the peanut butter mousse, through a tiny hole. 
 
 <div>
-    <img class="floating-image" src="/images/PBChocParfait1.jpg" />
+    {% asset_img floating-image PBChocParfait1.jpg %}
 </div>
 </div>
 
@@ -33,8 +33,8 @@ If you don't have pastry bags and decorating tips, another option is the use Zip
 <div style="display: flex;">
 For the serving glasses, I used some pretty juice glasses that I had at home. You could also use wine glasses, or really any glass or bowl that you would like. With the size glass I used, I was able to get 6 parfaits. Pictured to the right are the glasses I used, including my hand as a size reference. 
 <div style="display: flex;">
-    <img class="floating-image" style="padding:3px;" src="/images/ParfaitGlass2.jpg" />
-    <img class="floating-image" style="padding:3px;" src="/images/ParfaitGlass1.jpg" />
+    {% asset_img floating-image ParfaitGlass2.jpg %}
+    {% asset_img floating-image ParfaitGlass1.jpg %}
 </div>
 </div>
 
@@ -51,11 +51,12 @@ For the serving glasses, I used some pretty juice glasses that I had at home. Yo
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 6 parfaits</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/PBChocParfait2.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img PBChocParfait2.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <p style="font-size:120%;"><b>Chocolate Mousse:</b></p>

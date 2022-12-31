@@ -4,7 +4,7 @@ date: 2022-05-02 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/Equipment1.jpg" />
+{% asset_img top-image Equipment1.jpg %}
 <div class="post-body">
 Every baker needs her tools!
 
@@ -21,7 +21,7 @@ While it is not strictly necessary to have every piece of baking equipment, ther
         </ul>
     </li>
     <div>
-        <img class="floating-image" src="/images/Equipment2.jpg" />
+        {% asset_img floating-image Equipment2.jpg %}
     </div>
     </div>
     <li>Measuring cups & spoons</li>

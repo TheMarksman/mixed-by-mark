@@ -4,14 +4,14 @@ date: 2022-04-13 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/ChocPuddingCake.jpg" />
+{% asset_img top-image ChocPuddingCake.jpg %}
 <div class="post-body">
 A decadent chocolate cake with a delicious glaze on top, these cakes are a favorite of any chocolate-lover.
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/04/13/ChocolatePuddingCake/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 I grew up making these Chocolate Pudding Cakes with my mom. They were a staple for our holiday baking. When I was younger, I didn't like them much, only because the glaze contained nuts, and I was determined that nuts ruined desserts. But they were continuously part of our traditional baking, and I eventually grew to love them. 
@@ -35,11 +35,12 @@ The recipe is simple. It involves a yellow cake mix and a package of instant cho
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
             </div>
-            <img class="recipe-title-box-img" src="/images/ChocPuddingCake.jpg" />
-            <img 
-                class="print-recipe"
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img ChocPuddingCake.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <p style="font-size:120%;"><b>Cake:</b></p>

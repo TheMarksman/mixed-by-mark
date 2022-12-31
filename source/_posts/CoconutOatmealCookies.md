@@ -4,14 +4,14 @@ date: 2022-04-27 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/CoconutOatmealCookies2.jpg" />
+{% asset_img top-image CoconutOatmealCookies2.jpg %}
 <div class="post-body">
 These coconut oatmeal cookies have a delicious yet subtle coconut flavor to them, while also providing the texture of an oatmeal cookie.  
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/04/27/CoconutOatmealCookies/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 I will admit, these cookies are some of my favorites, mostly because I have such good memories associated with them. These are the cookies I baked to be favors at our wedding. They seemed to be the perfect cookies for the occasion. Although he doesn't have a sweet tooth, my husband does like coconut. And of course, I just love cookies in general. These cookies are nice and chewy; if you like crispy cookies, you're wrong 😊 The coconut made the cookies feel summer-y, and the oatmeal was a nice complement. Also, with having an outdoor June wedding, it was crucial that the cookies not include chocolate, as it would just melt and become all messy. 
@@ -19,7 +19,7 @@ I will admit, these cookies are some of my favorites, mostly because I have such
 <div style="display:flex;">
 I received so many compliments about the cookies that day. Some of my husband's relatives, who I had never met until that day, were raving about them, and it just made me feel so good! And now, every time I make the cookies, I think about our wedding day, and all the love I felt that day. 
 <div>
-    <img class="floating-image" src="/images/CoconutOatmealCookies1.JPG" />
+    {% asset_img floating-image CoconutOatmealCookies1.jpg %}
 </div>
 </div>
 
@@ -42,11 +42,12 @@ Optionally, you can also add some chocolate to these cookies. If desired, simply
                 </div>
                 <p class="recipe-title-box-title" style="font-family:Arial;">Yield: </p>
             </div>
-            <img class="recipe-title-box-img" src="/images/CoconutOatmealCookies2.jpg" />
-            <img 
-                class="print-recipe"
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img CoconutOatmealCookies2.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

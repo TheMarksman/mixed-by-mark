@@ -4,14 +4,14 @@ date: 2022-05-01 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/ApplePie1.jpg" />
+{% asset_img top-image ApplePie1.jpg %}
 <div class="post-body">
 A classic apple pie should be a staple in every recipe book.
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/05/01/ApplePie/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 In my family, we typically only make apple pie for Thanksgiving, and we do have it at every Thanksgiving. The holiday just doesn't seem complete without it. 
@@ -32,7 +32,7 @@ Bake the pie for about 1 hour, or until the top looks nice and golden.
 You may notice that my pie has 2 stick figures on it. There is a story to that... 
 One Thanksgiving when I was young, my sisters and I were helping my mom make the apple pie. She had already trimmed off the excess dough from the top crust. For some reason, my sisters and I started talking about decorating the pie, making it Thanksgiving-themed. And so we decided the pie needed a pilgrim and Indian. So I set about making them. But let's be real, I'm not an artist. And trying to cut figures out of dough isn't easy. So I ended up with stick figures. I also cut out a pilgrim hat and a feather for the Indian. None of us could stop laughing. It then became a running joke that every year, the apple pie needed the pilgrim and Indian, or it just wasn't a real Thanksgiving. So, to this day, I still decorate my pie every year. 😄
 <div>
-    <img class="floating-image" src="/images/ApplePie2.jpg" />
+    {% asset_img floating-image ApplePie2.jpg %}
 </div>
 </div>
 
@@ -49,11 +49,12 @@ One Thanksgiving when I was young, my sisters and I were helping my mom make the
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 pie</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/ApplePie1.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img ApplePie1.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">

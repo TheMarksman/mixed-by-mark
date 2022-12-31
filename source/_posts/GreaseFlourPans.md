@@ -4,7 +4,6 @@ date: 2022-07-04 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/PretzelTreats.jpg" />
 <div class="post-body">
 When baking cakes, it is important to grease and flour your cake pans. This prevents your cakes from sticking or falling apart. 
 

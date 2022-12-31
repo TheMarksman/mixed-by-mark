@@ -2,7 +2,7 @@
 title: About Me
 date: 2022-03-12 00:00:00
 ---
-<img class="top-image" src="/images/BlueHair.JPG" />
+{% asset_img top-image BlueHair.JPG %}
 <div class="post-body">
 Hi, welcome to the next phase of my life. 
 
@@ -21,7 +21,7 @@ But now, I recently quit my job to stay home and raise my daughter. She is 5 mon
 <div style="display:flex;"> 
 During pregnancy, I couldn't imagine how different my life would be once Elayne was born. Obviously, I knew things would change - I just couldn't comprehend how much. So now here I am, a full-time stay-at-home mom. It is a little weird not going into an office everyday, or seeing any coworkers. But I'm not complaining. I get to spend everyday with my precious baby girl. I get to see how she changes and grows everyday. And believe me, she changes so fast. I am very lucky to be able to raise her instead of needing to work. 
 <div>
-  <img style="max-width:30rem; float:right; border-radius:2rem;" src="/images/StPatricksDay.jpg" />
+  {% asset_img floating-image StPatricksDay.jpg %}
 </div>
 </div>
  
@@ -32,7 +32,7 @@ I have been baking since I was very young. Growing up, my mom always baked for t
 <div style="display:flex;">
 Since then, I have continued baking for various events, or just for no reason at all. I like to host parties, game nights, football game viewings, etc. Prior to Covid, I hosted a Halloween party several years in a row. I hosted my sister's wedding shower, and a few birthday parties. Each time, I made all the food myself, simply because that's what I enjoy doing. For as long back as I can remember, I have found baking to be exciting and a great way to get my mind off my stress. I like to try new recipes, and then have my friends, neighbors, or coworkers give their opinions of them; they have been great guinea pigs over the years 😊 
 <div>
-  <img style="max-width:30rem; float:right; border-radius:2rem;" src="/images/TommyElayne.jpg" />
+  {% asset_img floating-image TommyElayne.jpg %}
 </div>
 </div>
 

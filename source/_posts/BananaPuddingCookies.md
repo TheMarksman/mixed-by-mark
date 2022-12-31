@@ -4,14 +4,14 @@ date: 2022-04-23 00:00:00
 tags:
 ---
 
-<img class="top-image" src="/images/BananaPuddingCookies3.jpg" />
+{% asset_img top-image BananaPuddingCookies3.jpg %}
 <div class="post-body">
 Banana pudding in cookie form?! That's right! These cookies are so rich in banana flavor, and they are so easy to make!
 <br>
 <!--more-->
 
-<a href="http://localhost:4000/2022/04/23/BananaPuddingCookies/#recipejump">
-<img class="jump-to-recipe" src="/images/JumpToRecipeButton.png" />
+<a class="jump-to-recipe-btn" href="#recipejump"> 
+    Jump to Recipe
 </a>
 
 I recently made these cookies for a ladies night I attended. One of the women asked me, "How many bananas did you have to put in this to get so much banana flavor?" My answer: None. Instead of using fresh bananas, this recipe uses banana pudding mix. Pudding mixes are a wonderful way to add lots of flavor without complicating the recipe. 
@@ -21,7 +21,7 @@ What I love about this recipe, apart from the simplicity, is that you really do 
 <div style="display:flex;">
 This recipe calls for butter shortening. If you're not sure what this is, it can be found in the baking aisle of your grocery store, near the Crisco and cooking spray. It is a butter flavored shortening; I buy Crisco brand, but there may be others out there. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/ButterCrisco.jpg" />
+    {% asset_img floating-image ButterCrisco.jpg %}
 </div>
 </div>
 
@@ -30,7 +30,7 @@ To make these cookies, start by creaming together the shortening, butter, sugars
 <div style="display:flex;">
 Next, we need to chop the vanilla wafers. I just used a cutting board and knife, and made medium-sized cookie pieces. I would recommend not using a food processor, because it will make more crumbs and less cookie pieces. Once the vanilla wafers are chopped, stir in the wafers and white chocolate chips. I like to do this part by hand so that the cookies don't break up even more. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/BananaPuddingCookies1.jpg" />
+    {% asset_img floating-image BananaPuddingCookies1.jpg %}
 </div>
 </div>
 
@@ -39,10 +39,10 @@ Then, roll the dough into 1 or 1½ inch balls and place them on a greased baking
 <div style="display:flex;">
 Place the dough balls on a greased baking sheet, and bake for 9 minutes. The cookies will look very underdone, but they will firm up a little as they cool. I find it best to pull cookies out of the oven when they look underdone because we want nice, chewy cookies. And, even after removing them from the oven, cookies will continue to bake a little, because the pan is still hot. This is why it is always recommended to let cookies cool on the pan for just a minute or two, and then remove them to cool completely. 
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/BananaPuddingCookies2.jpg" />
+    {% asset_img floating-image BananaPuddingCookies2.jpg %}
 </div>
 <div>
-    <img class="floating-image" style="padding:3px;" src="/images/BananaPuddingCookies4.jpg" />
+    {% asset_img floating-image BananaPuddingCookies4.jpg %}
 </div>
 </div>
 
@@ -59,11 +59,12 @@ Place the dough balls on a greased baking sheet, and bake for 9 minutes. The coo
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 45 cookies</p>
             </div>
-            <img class="recipe-title-box-img" src="/images/BananaPuddingCookies3.jpg" />
-            <img 
-                class="print-recipe" 
-                src="/images/PrintRecipeButton.png"   
-                onclick="printDIV('recipe')" />
+            {% asset_img recipe-title-box-img BananaPuddingCookies3.jpg %}
+            <button class="print-recipe"
+                    type="button"
+                    onclick="printDIV('recipe')" >
+                Print Recipe
+            </button>
         </div>
         <p style="font-size:150%;"><b>Ingredients</b></p>
         <ul class="post-body">
