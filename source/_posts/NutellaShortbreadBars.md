@@ -16,6 +16,7 @@ So why not shortbread?
 
 <!--more-->
 
+<br>
 <a class="jump-to-recipe-btn" href="#recipejump"> 
     Jump to Recipe
 </a>

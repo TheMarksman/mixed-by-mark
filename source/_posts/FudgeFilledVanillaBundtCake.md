@@ -26,7 +26,7 @@ It was a little time consuming, because in addition to making the cake batter, I
 </div>
 
 So how do we make a cake like this? 
-First, you need to heavily grease and flour your bundt pan. If your pan is not adequately greased and floured, the cake will stick, and it will not come out of the pan looking pretty. If you don't know how to do this, see my post <a href="/2022/07/04/GreaseFlourPans/">How to Grease & Flour Cake Pans</a>.
+First, you need to heavily grease and flour your bundt pan. If your pan is not adequately greased and floured, the cake will stick, and it will not come out of the pan looking pretty. If you don't know how to do this, see my post {% post_link GreaseFlourPans How to Grease & Flour Cake Pans %}.
 
 <div style="display:flex;">
     {% asset_img floating-image FudgeVanillaBundt10.jpg %}

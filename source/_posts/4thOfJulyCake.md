@@ -41,7 +41,7 @@ Next, make the batter with the second box. There is no need to divide this batte
 </div>
 </div>
 
-Your cake pans need to be greased and floured before pouring the batter into them. By doing this, you're decreasing the chances your cakes from sticking. If you don't know how to do this, see my post <a href="/2022/07/04/GreaseFlourPans/">How to Grease & Flour Cake Pans</a>.
+Your cake pans need to be greased and floured before pouring the batter into them. By doing this, you're decreasing the chances your cakes from sticking. If you don't know how to do this, see my post {% post_link GreaseFlourPans How to Grease & Flour Cake Pans %}.
 
 <div style="display:flex;">
 Bake your cakes as directed on the box or in your recipe. Then let the cakes cool before removing from the pans. If your cakes are still warm when you try to cut them, they will fall apart much more easily. Also, if the cakes are still warm when you begin frosting them, the icing will become melty and messy. Neither of which is what we want. 
@@ -88,10 +88,10 @@ Once it is fully assembled with all of the above layers, your cake should look l
 </div>
 </div>
 
-Now, we want to apply a crumb coat of icing. If you're short on time, you could skip this step. It isn't crucial, but...having a crumb coat will make your final layer of frosting look much neater. Your choice. If you don't know how to do a crumb coat, visit my post <a href="/2022/07/04/CrumbCoat/">How to Apply a Crumb Coat of Icing</a>. 
+Now, we want to apply a crumb coat of icing. If you're short on time, you could skip this step. It isn't crucial, but...having a crumb coat will make your final layer of frosting look much neater. Your choice. If you don't know how to do a crumb coat, visit my post {% post_link CrumbCoat How to Apply a Crumb Coat of Icing %}. 
 
 <div style="text-align:right;">{% asset_img floating-image July4Cake11.jpg %}</div>
-
+<br>
 <div style="display:flex;">
 After the crumb coat is applied and your cake has chilled, you can add the final layer of frosting and then decorate your cake! I chose to keep the frosting layer white and add blue and red borders and fireworks. This is mostly because I enjoy piping icing. For me, piping icing always turns out looking better than simply spreading it onto the cake. I think this is because I always criticize my own work, and I always see my icing as messy when I spread it on. So, adding piped icing both covers up some messy spots, and also distracts from looking at the spread icing. But any decoration you want is great! That's one of the best things about baking; it allows you to be creative and try out some new things. 
 <div>

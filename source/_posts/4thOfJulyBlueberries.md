@@ -11,7 +11,7 @@ Happy 4<sup>th</sup> of July! These blueberry treats are a delicious and festive
 <br>
 <!--more-->
 
-This year, in addition to the <a href="/2022/07/04/4thOfJulyCake/">4<sup>th</sup> of July Cake</a>, I also made these blueberry treats. I saw the idea online and thought "Hey, those look easy and cute". I will say, they were very easy, but also very tedious, which I guess I should have expected. But they did turn out pretty cute, and they tasted good. Everyone enjoyed them, so that's a win. 
+This year, in addition to the {% post_link 4thOfJulyCake 4<sup>th</sup> of July Cake %}, I also made these blueberry treats. I saw the idea online and thought "Hey, those look easy and cute". I will say, they were very easy, but also very tedious, which I guess I should have expected. But they did turn out pretty cute, and they tasted good. Everyone enjoyed them, so that's a win. 
 
 These treats were not nearly as exciting as the flag cake I also made for our family celebration this year. But they are still a good option, especially for someone who doesn't want to expend the time and energy for something as in depth as the cake. 
 
