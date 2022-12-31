@@ -44,7 +44,7 @@ It is recommended to refrigerate the dough before baking, but this is not strict
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 24 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img WhiteChocMacNutCookies2.jpg %}
+            <!-- {% asset_img recipe-title-box-img WhiteChocMacNutCookies2.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

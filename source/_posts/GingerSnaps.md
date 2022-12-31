@@ -49,7 +49,7 @@ You know they are done baking with the tops of the cookies just begin to crack. 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies </p>
             </div>
-            {% asset_img recipe-title-box-img GingerSnaps1.jpg %}
+            <!-- {% asset_img recipe-title-box-img GingerSnaps1.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

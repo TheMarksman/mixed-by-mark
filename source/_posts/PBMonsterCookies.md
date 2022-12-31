@@ -46,7 +46,7 @@ Roll the dough into balls and place them on a greased baking sheet. Gently press
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 30 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img PBMonsterCookies2.jpg %}
+            <!-- {% asset_img recipe-title-box-img PBMonsterCookies2.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

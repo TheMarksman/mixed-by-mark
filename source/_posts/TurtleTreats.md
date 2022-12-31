@@ -44,7 +44,7 @@ Immediately after taking the pan out of the oven, press a pecan into each Rolo. 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: dependent on number of Rolos used</p>
             </div>
-            {% asset_img recipe-title-box-img TurtleTreats.jpg %}
+            <!-- {% asset_img recipe-title-box-img TurtleTreats.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

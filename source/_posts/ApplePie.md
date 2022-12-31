@@ -49,7 +49,7 @@ One Thanksgiving when I was young, my sisters and I were helping my mom make the
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 pie</p>
             </div>
-            {% asset_img recipe-title-box-img ApplePie1.jpg %}
+            <!-- {% asset_img recipe-title-box-img ApplePie1.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >
