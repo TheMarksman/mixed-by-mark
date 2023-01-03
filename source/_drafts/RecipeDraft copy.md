@@ -23,8 +23,8 @@ Detailed text
 </div>
 
 <div style="display:flex;">
-    {% asset_img side-by-side CobbDip2 %}
-    {% asset_img side-by-side CobbDip3 %}
+    {% asset_img side-by-side CobbDip2.jpg %}
+    {% asset_img side-by-side CobbDip3.jpg %}
 </div>
 
 <br>
@@ -40,7 +40,7 @@ Detailed text
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
             </div>
-            {% asset_img recipe-title-box-img ButterCrisco.jpg %}
+            <!-- {% asset_img recipe-title-box-img ButterCrisco.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >
