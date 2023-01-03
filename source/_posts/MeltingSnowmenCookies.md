@@ -17,7 +17,14 @@ I love Christmas baking!
 
 My mom and I bake together every year. This year, my older sister was in town, and she joined us in our Christmas baking. 
 
-In year's past, we have baked all day long, completely losing track of time throughout the day. This year was a little different because while we were baking, we were also keeping an eye on Elayne while she played with her toys. So we weren't able to be quite as productive as our typical Christmas baking. But that's ok. We like to make some treats to give to neighbors and close friends, but there is nothing specific that we need to bake. 
+<br>
+<br>
+<div style="display:flex;">
+In year's past, we have baked all day long, completely losing track of time throughout the day. This year was a little different because while we were baking, we were also keeping an eye on Elayne while she played with her toys. So we weren't able to be quite as productive as our typical Christmas baking. But that's ok. We like to make some treats to give to neighbors and close friends, but there is nothing specific that we need to bake. Elayne even joined in on the baking spirit with her holiday baking outfit 😊
+<div>
+    {% asset_img floating-image ElayneHolidayBaking.jpg %}
+</div>
+</div>
 
 I always love finding a cute Christmas treat to make. This year, I chose to make Melting Snowmen Cookies. They turned out so adorable! They were a little tedious to make, like many of these type of treats are. But that's ok. This is the type of treat that you limit the amount you make. Trying to make too many batches of these would take a long time, because you have to decorate them in addition to baking. But they are fun to make! 
 
