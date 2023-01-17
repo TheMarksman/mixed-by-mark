@@ -24,6 +24,11 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
+        <td>{% post_link ChocCaramelEspressoBars Chocolate Caramel Espresso Bars %}</td>
+        <td>10 minutes</td>
+        <td>Graham crackers, Chocolate chips, Espresso powder</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocolateCrispyTreats Chocolate Crispy Treats %}</td>
         <td>N/A</td>
         <td>Cocoa Puffs, Marshmallows, Nutella, Chocolate chips, White chocolate chips</td>
