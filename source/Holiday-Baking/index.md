@@ -19,6 +19,9 @@ date: 2022-04-08 20:11:53
 <h3>Christmas</h3>
 <table>
     <tr>
+        <th>Recipe</th>
+    </tr>
+    <tr>
         <td>{% post_link MeltingSnowmenCookies Melting Snowmen Cookies %}</td>
     </tr>
     <tr>
@@ -29,12 +32,18 @@ date: 2022-04-08 20:11:53
 <h3>Easter</h3>
 <table>
     <tr>
+        <th>Recipe</th>
+    </tr>
+    <tr>
         <td>{% post_link EasterCake Easter Nest Cake %}</td>
     </tr>
 </table>
 
 <h3>Halloween</h3>
 <table>
+    <tr>
+        <th>Recipe</th>
+    </tr>
     <tr>
         <td></td>
     </tr>

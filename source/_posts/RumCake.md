@@ -1,8 +1,9 @@
 ---
 title: Rum Cake
-date: 2023-01-02
+date: 2023-01-02 00:00:00
 tags:
 ---
+
 {% asset_img top-image RumCake2.jpg %}
 <div class="post-body">
 Rum Cake is a delicious, classic cake to have in your collection of recipes. 
@@ -22,17 +23,15 @@ You start with a Golden Butter cake mix and a package of instant vanilla pudding
 
 Then, mix in the eggs, rum, oil, and water until they are well combined. I have always used coconut rum for this recipe. It is my favorite, and I love the way it makes the cake taste. But, if you don't have coconut rum, or if you prefer something else, you can add any rum you choose. 
 
-Make sure you cake pans are greased heavily, so that the cake does not stick. Pour your cake mix into your prepared pans. My mom always added chopped pecans after pouring in the batter. So you can do that if you wish. I never add the pecans. I have one friend who can't eat them, and I know nut allergies are very common. Plus, I never cared for the nuts on the cake. 
+Make sure your cake pans are greased heavily, so that the cake does not stick. Pour your cake mix into your prepared pans. My mom always added chopped pecans after pouring in the batter. So you can do that if you wish. I never add the pecans. I have one friend who can't eat them, and I know nut allergies are very common. Plus, I never cared for the nuts on the cake. 
+
+Then, you need to bake. If you're making one large bundt cake, bake for 1 hour at 325°F. If you're making mini bundts, bake for 15 minutes, also at 325°F. 
 
 <div style="display:flex;">
+Next, make the glaze. Combine the butter, sugar, water, and rum in a sauce pan. Heat this over medium heat, stirring continually until the sugar is dissolved and all ingredients are incorporated. Allow the glaze to boil for 2 minutes. Finally, poke holes in your cake and pour the glaze over the warm cake. 
 <div>
-    {% asset_img floating-image ButterCrisco.jpg %}
+    {% asset_img floating-image RumCake1.jpg %}
 </div>
-</div>
-
-<div style="display:flex;">
-    {% asset_img side-by-side CobbDip2 %}
-    {% asset_img side-by-side CobbDip3 %}
 </div>
 
 <br>

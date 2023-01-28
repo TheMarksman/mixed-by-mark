@@ -66,6 +66,11 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
+        <td>{% post_link BananaPuddingCheesecake Banana Pudding Cheesecake %}</td>
+        <td>70-80 minutes</td>
+        <td>Vanilla wafers, Bananas</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocolatePuddingCake Chocolate Pudding Cake %}</td>
         <td>12 minutes for mini cakes, 45 minutes for single cake</td>
         <td>Chocolate Pudding mix, Pecans</td>
@@ -79,6 +84,11 @@ date: 2022-04-07 20:09:24
         <td>{% post_link OreoCake Oreo Cake w/ Coffee Oreo Buttercream %}</td>
         <td>40-45 minutes</td>
         <td>Oreos, Espresso powder</td>
+    </tr>
+    <tr>
+        <td>{% post_link RumCake Rum Cake %}</td>
+        <td>15 minutes for mini bundts, 1 hour for one large bundt</td>
+        <td>Golden Butter cake mix, Instant vanilla pudding, Coconut rum</td>
     </tr>
 </table>
 
