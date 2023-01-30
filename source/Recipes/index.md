@@ -134,6 +134,11 @@ date: 2022-04-07 20:09:24
         <td>Unsweetened chocolate, Unsweetened cocoa powder</td>
     </tr>
     <tr>
+        <td>{% post_link CinnamonCookies Cinnamon Cookies %}</td>
+        <td>9 minutes</td>
+        <td>Cinnamon</td>
+    </tr>
+    <tr>
         <td>{% post_link CoconutOatmealCookies Coconut Oatmeal Cookies %}</td>
         <td>10 minutes</td>
         <td>Coconut, Oatmeal</td>
