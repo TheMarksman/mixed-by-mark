@@ -216,6 +216,11 @@ date: 2022-04-07 20:09:24
         <td>N/A</td>
         <td>Vanilla pudding, Fudge sauce, Vanilla wafers, Banana</td>
     </tr>
+    <tr>
+        <td>{% post_link VanillaBeanCremeBrulee Vanille Bean Crème Brûlée %}</td>
+        <td>40-45 minutes</td>
+        <td>Vanilla beans, Agave nectar</td>
+    </tr>
 </table>
 
 <h3>Pastries & Tarts</h3>
