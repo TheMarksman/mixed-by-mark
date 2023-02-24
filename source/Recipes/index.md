@@ -15,6 +15,11 @@ date: 2022-04-07 20:09:24
         <td>Ranch mix, Lettuce, Tomato, Corn, Cheese, Bacon bits</td>
     </tr>
     <tr>
+        <td>{% post_link PizzaBites Pizza Bites %}</td>
+        <td>16-20 minutes</td>
+        <td>Pepperoni, Mozzarella cheese</td>
+    </tr>
+    <tr>
         <td>{% post_link RitzSandwiches Ritz Sandwiches %}</td>
         <td>10-12 minutes</td>
         <td>Ritz crackers, Ham, Swiss cheese</td>
