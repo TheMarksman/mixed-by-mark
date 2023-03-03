@@ -10,6 +10,11 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
+        <td>{% post_link BakedBrie Baked Brie %}</td>
+        <td>15-20 minutes</td>
+        <td>Brie, Puff pastry</td>
+    </tr>
+    <tr>
         <td>{% post_link CobbDip Cobb Dip %}</td>
         <td>N/A</td>
         <td>Ranch mix, Lettuce, Tomato, Corn, Cheese, Bacon bits</td>
