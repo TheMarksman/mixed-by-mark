@@ -73,6 +73,11 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
+        <td>{% post_link CaramelRolls Caramel Rolls %}</td>
+        <td>15-18 minutes</td>
+        <td>Crescent roll dough, Cinnamon</td>
+    </tr>
+    <tr>
         <td>{% post_link WhiteChocolateCranberryBiscotti White Chocolate Cranberry Biscotti %}</td>
         <td>45-48 minutes</td>
         <td>White chocolate, Cranberry Almond Crunch cereal</td>
