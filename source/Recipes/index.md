@@ -189,6 +189,11 @@ date: 2022-04-07 20:09:24
         <td>Ginger, Cinnamon, Cloves, Molasses</td>
     </tr>
     <tr>
+        <td>{% post_link NutellaPBCookies Nutella Peanut Butter Cookies %}</td>
+        <td>10-12 minutes</td>
+        <td>Nutella, Peanut butter</td>
+    </tr>
+    <tr>
         <td>{% post_link PBMonsterCookies Peanut Butter Monster Cookies %}</td>
         <td>10-12 minutes</td>
         <td>Peanut butter, Reese's Pieces</td>
