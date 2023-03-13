@@ -1,8 +1,9 @@
 ---
 title: Pretzel Treat Cookies
-date: 2023-03-12
+date: 2023-03-12 00:00:00
 tags:
 ---
+
 {% asset_img top-image PretzelTreatCookies6.jpg %}
 <div class="post-body">
 These cookies are the perfect combination of salty and sweet.
@@ -31,20 +32,16 @@ In a separate bowl, combine the flour, baking soda, and salt. Slowly add the flo
 </div>
 </div>
 
-<div style="display:flex;">
 Roughly chop the Hershey's Hugs, and break the pretzels into pieces. I used pretzel sticks, because I already had some at home. But you could use the twist pretzels or the square pretzels as well. Fold in the Hugs, pretzels, and M&M's by hand. 
-<div>
+<div style="display:flex;">
     {% asset_img side-by-side PretzelTreatCookies4.jpg %}
     {% asset_img side-by-side PretzelTreatCookies1.jpg %}
 </div>
-</div>
 
-<div style="display:flex;">
 Scoop the dough into 1-inch balls on the prepared baking sheet. Bake for 8-10 minutes, until the cookies are golden brown. 
-<div>
+<div style="display:flex;">
     {% asset_img side-by-side PretzelTreatCookies5.jpg %}
     {% asset_img side-by-side PretzelTreatCookies7.jpg %}
-</div>
 </div>
 
 <br>
