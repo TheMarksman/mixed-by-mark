@@ -199,6 +199,11 @@ date: 2022-04-07 20:09:24
         <td>Peanut butter, Reese's Pieces</td>
     </tr>
     <tr>
+        <td>{% post_link PretzelTreatCookies Pretzel Treat Cookies %}</td>
+        <td>8-10 minutes</td>
+        <td>Hershey's Hugs, Pretzels, M&M's</td>
+    </tr>
+    <tr>
         <td>{% post_link SugarCookies Sugar Cookies %}</td>
         <td>15-18 minutes</td>
         <td>Sugar</td>
