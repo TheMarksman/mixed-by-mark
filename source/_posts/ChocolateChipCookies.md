@@ -72,10 +72,10 @@ Finally, stir in the chocolate chips by hand. Spoon the dough onto the baking sh
         <p style="font-size:150%;"><b>Directions</b></p>
         <ol class="post-body">
             <li>Preheat oven to 375°F.</li>
-            <li>Using a stand mixer, cream together butter and butter shortening.</li>
-            <li>Add sugars and vanilla to butter mixture and mix until smooth.</li>
-            <li>Add eggs to the butter and sugar mixture. Mix until combined.</li>
-            <li>In a separate medium bowl, combine flour, baking soda, and salt.</li>
+            <li>Using a stand mixer, cream together butter & butter shortening.</li>
+            <li>Add sugars & vanilla to butter mixture and mix until smooth.</li>
+            <li>Add eggs to the butter & sugar mixture. Mix until combined.</li>
+            <li>In a separate medium bowl, combine flour, baking soda, & salt.</li>
             <li>Slowly add the flour mixture to the dough, mixing until well combined.</li>
             <li>Fold in the chocolate chips by hand.</li>
             <li>Bake 9-11 minutes on stone baking sheet.</li>
