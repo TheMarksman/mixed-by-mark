@@ -48,3 +48,16 @@ date: 2022-04-08 20:11:53
         <td>{% post_link PumpkinPretzels Pumpkin Pretzels %}</td>
     </tr>
 </table>
+
+<h3>St. Patrick's Day</h3>
+<table>
+    <tr>
+        <th>Recipe</th>
+    </tr>
+    <tr>
+        <td>{% post_link LeprechaunHatCakes Leprechaun Hat Cakes %}</td>
+    </tr>
+    <tr>
+        <td>{% post_link LuckyCharmsBars Lucky Charms Bars %}</td>
+    </tr>
+</table>
