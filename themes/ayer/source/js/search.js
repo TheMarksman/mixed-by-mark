@@ -114,7 +114,7 @@ var searchFunc = function (path, search_id, content_id) {
         });
         str += "</ul>";
         if (str.indexOf('<li>') === -1) {
-          return $resultContent.innerHTML = BTN + "<div class=\"search-result-empty\"><p><i class=\"fe fe-tired\"></i> 没有找到内容，更换下搜索词试试吧~<p></div>";
+          return $resultContent.innerHTML = BTN + "<div class=\"search-result-empty\"><p><i class=\"fe fe-tired\"></i> No results match your search.<p></div>";
         }
         $resultContent.innerHTML = BTN + str;
       });
