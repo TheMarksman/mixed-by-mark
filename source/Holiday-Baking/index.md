@@ -37,6 +37,12 @@ date: 2022-04-08 20:11:53
     <tr>
         <td>{% post_link EasterCake Easter Nest Cake %}</td>
     </tr>
+    <tr>
+        <td>{% post_link EasterSugarCookies Easter Sugar Cookies %}</td>
+    </tr>
+    <tr>
+        <td>{% post_link HaystackNests Haystack Nests %}</td>
+    </tr>
 </table>
 
 <h3>Halloween</h3>
