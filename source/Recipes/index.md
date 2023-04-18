@@ -78,6 +78,11 @@ date: 2022-04-07 20:09:24
         <td>Crescent roll dough, Cinnamon</td>
     </tr>
     <tr>
+        <td>{% post_link HoneyOatBread Honey Oat Bread %}</td>
+        <td>40 minutes</td>
+        <td>Honey, Old-fashioned oats</li>
+    </tr>
+    <tr>
         <td>{% post_link WhiteChocolateCranberryBiscotti White Chocolate Cranberry Biscotti %}</td>
         <td>45-48 minutes</td>
         <td>White chocolate, Cranberry Almond Crunch cereal</td>
