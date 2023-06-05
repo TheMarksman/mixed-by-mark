@@ -263,6 +263,25 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<h3>Doughnuts</h3>
+<table>
+    <tr>
+        <th>Recipe</th>
+        <th>Bake Time</th>
+        <th>Feature Ingredient(s)</th>
+    </tr>
+    <tr>
+        <td>{% post_link CoffeeCakeDoughnuts Coffee Cake Doughnuts %}</td>
+        <td>10-12 minutes</td>
+        <td>Espresso powder, Cinnamon</td>
+    </tr>
+    <tr>
+        <td>{% post_link GlazedDoughnuts Glazed Doughnuts %}</td>
+        <td>10-12 minutes</td>
+        <td>Vanilla</td>
+    </tr>
+</table>
+
 <h3>Pastries & Tarts</h3>
 
 <h3>Pies</h3>
