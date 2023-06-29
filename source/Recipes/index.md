@@ -49,6 +49,11 @@ date: 2022-04-07 20:09:24
         <td>Graham crackers, Chocolate chips, Espresso powder</td>
     </tr>
     <tr>
+        <td>{% post_link ChocCaramelShortbreadBars Chocolate Caramel Shortbread Bars %}</td>
+        <td>55-60 minutes</td>
+        <td>Caramels, Chocolate chips, Powdered sugar</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocolateCrispyTreats Chocolate Crispy Treats %}</td>
         <td>N/A</td>
         <td>Cocoa Puffs, Marshmallows, Nutella, Chocolate chips, White chocolate chips</td>
