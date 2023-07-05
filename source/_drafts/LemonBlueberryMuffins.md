@@ -3,7 +3,7 @@ title: Lemon Blueberry Muffins
 date: 2023-06-23
 tags:
 ---
-{% asset_img top-image PretzelTreats.jpg %}
+{% asset_img top-image LemonBlueberryMuffins6.jpg %}
 <div class="post-body">
 Short description
 
@@ -40,7 +40,7 @@ Detailed text
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img ButterCrisco.jpg %} -->
+            <!-- {% asset_img recipe-title-box-img LemonBlueberryMuffins6.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >
