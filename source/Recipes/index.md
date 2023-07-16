@@ -35,6 +35,11 @@ date: 2022-04-07 20:09:24
         <td>Ritz crackers, Ham, Swiss cheese</td>
     </tr>
     <tr>
+        <td>{% post_link SpinachArtichokeBites Spinach Artichoke Bites %}</td>
+        <td>12-16 minutes</td>
+        <td>Spinach artichoke dip, Phyllo cups</td>
+    </tr>
+    <tr>
         <td>{% post_link SweetPotatoSausageSkewers Sweet Potato Sausage Skewers %}</td>
         <td>20-25 minutes</td>
         <td>Sweet potatoes, Chicken sausages</td>
