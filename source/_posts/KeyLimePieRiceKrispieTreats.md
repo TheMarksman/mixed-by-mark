@@ -1,5 +1,5 @@
 ---
-title: KeyLimePieRiceKrispieTreats
+title: Key Lime Pie Rice Krispie Treats
 date: 2023-07-16 00:00:00
 tags:
 ---
@@ -30,7 +30,7 @@ Start by greasing a 9x13-inch pan with cooking spray. Make sure it is well-coate
 </div>
 </div>
 
-Sitr in the Rice Krispies cereal and crushed graham crackers until fully coated. Then stir in the white chocolate chips until well-combined. Press the mixture into the prepared 9x13-inch pan until it's in an even layer and covering the entire bottom of the pan. I recommend spraying a little cooking spray on your hands first. This helps prevent the marshmallows from sticking to your fingers. Allow the treats to cool fully before cutting and serving them. 
+Stir in the Rice Krispies cereal and crushed graham crackers until fully coated. Then stir in the white chocolate chips until well-combined. Press the mixture into the prepared 9x13-inch pan until it's in an even layer and covering the entire bottom of the pan. I recommend spraying a little cooking spray on your hands first. This helps prevent the marshmallows from sticking to your fingers. Allow the treats to cool fully before cutting and serving them. 
 
 <div style="display:flex;">
     {% asset_img side-by-side KeyLimePieRiceKrispieTreats2.jpg %}

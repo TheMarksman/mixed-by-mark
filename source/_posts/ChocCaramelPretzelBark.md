@@ -17,6 +17,7 @@ If you're looking for a super easy and delicious treat, look no further.
 
 This Chocolate Caramel Pretzel Bark is satisfyingly salty and sweet. And it is one of the easiest recipes you will ever make. Plus, it is completely addicting. I could easily stand there just munching on it all night if I didn't stop myself. 
 
+<br>
 You don't need many ingredients... or many baking skills for that matter. Start by preheating the oven to 325°F. Then, line a baking sheet with aluminum foil. Grease the foil with cooking spray. This will prevent the caramel from sticking to the pan and the foil. Then place pretzels on the baking sheet in a single layer, covering the entire sheet. 
 <div style="display:flex;">
     {% asset_img side-by-side ChocCaramelPretzelBark1.jpg %}
