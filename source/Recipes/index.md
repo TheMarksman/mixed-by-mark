@@ -44,6 +44,11 @@ date: 2022-04-07 20:09:24
         <td>20-25 minutes</td>
         <td>Sweet potatoes, Chicken sausages</td>
     </tr>
+    <tr>
+        <td>{% post_link WatermelonProsciuttoSkewers Watermelon Prosciutto Skewers %}</td>
+        <td>N/A</td>
+        <td>Watermelon, Prosciutto, Mozzarella, Basil</li>
+    </tr>
 </table>
 
 <h3>Bars</h3>
