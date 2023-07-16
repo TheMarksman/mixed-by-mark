@@ -15,6 +15,11 @@ date: 2022-04-07 20:09:24
         <td>Brie, Puff pastry</td>
     </tr>
     <tr>
+        <td>{% post_link ChocolateFruitDip Chocolate Fruit Dip %}</td>
+        <td>N/A</td>
+        <td>Cocoa powder, Cream cheese</td>
+    </tr>
+    <tr>
         <td>{% post_link CobbDip Cobb Dip %}</td>
         <td>N/A</td>
         <td>Ranch mix, Lettuce, Tomato, Corn, Cheese, Bacon bits</td>
@@ -57,6 +62,11 @@ date: 2022-04-07 20:09:24
         <td>{% post_link ChocolateCrispyTreats Chocolate Crispy Treats %}</td>
         <td>N/A</td>
         <td>Cocoa Puffs, Marshmallows, Nutella, Chocolate chips, White chocolate chips</td>
+    </tr>
+    <tr>
+        <td>{% post_link KeyLimePieRiceKrispieTreats Key Lime Pie Rice Krispie Treats %}</td>
+        <td>N/A</td>
+        <td>Rice Krispies, Marshmallows, Graham crackers, Lime, White chocolate chips</li>
     </tr>
     <tr>
         <td>{% post_link NutellaShortbreadBars Nutella Shortbread Bars %}</td>
