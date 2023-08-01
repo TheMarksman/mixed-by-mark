@@ -108,6 +108,11 @@ date: 2022-04-07 20:09:24
         <td>Honey, Old-fashioned oats</li>
     </tr>
     <tr>
+        <td>{% post_link LemonBlueberryMuffins Lemon Blueberry Muffins %}</td>
+        <td>22-25 minutes</td>
+        <td>Blueberries, Lemon, Old-fashioned oats</td>
+    </tr>
+    <tr>
         <td>{% post_link WhiteChocolateCranberryBiscotti White Chocolate Cranberry Biscotti %}</td>
         <td>45-48 minutes</td>
         <td>White chocolate, Cranberry Almond Crunch cereal</td>
