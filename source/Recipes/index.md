@@ -15,6 +15,11 @@ date: 2022-04-07 20:09:24
         <td>Brie, Puff pastry</td>
     </tr>
     <tr>
+        <td>{% post_link ChickenAvocadoCrescentRing Chicken Avocado Crescent Ring %}</td>
+        <td>15-20 minutes</td>
+        <td>Crescent rolls, Chicken, Avocado, Cheddar cheese</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocolateFruitDip Chocolate Fruit Dip %}</td>
         <td>N/A</td>
         <td>Cocoa powder, Cream cheese</td>
