@@ -155,6 +155,11 @@ date: 2022-04-07 20:09:24
         <td>15 minutes for mini bundts, 1 hour for one large bundt</td>
         <td>Golden Butter cake mix, Instant vanilla pudding, Coconut rum</td>
     </tr>
+    <tr>
+        <td>{% post_link TripleChocolateMousseCake Triple Chocolate Mousse Cake %}</td>
+        <td>26-28 minutes</td>
+        <td>Semisweet chocolate, White chocolate, Unflavored gelatin, Heavy cream</td>
+    </tr>
 </table>
 
 <h3>Candies</h3>
