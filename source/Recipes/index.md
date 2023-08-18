@@ -45,6 +45,11 @@ date: 2022-04-07 20:09:24
         <td>Spinach artichoke dip, Phyllo cups</td>
     </tr>
     <tr>
+        <td>{% post_link SweetPotatoFetaBites Sweet Potato Feta Bites %}</td>
+        <td>30 minutes</td>
+        <td>Sweet potatoes, Feta cheese</td>
+    </tr>
+    <tr>
         <td>{% post_link SweetPotatoSausageSkewers Sweet Potato Sausage Skewers %}</td>
         <td>20-25 minutes</td>
         <td>Sweet potatoes, Chicken sausages</td>
