@@ -175,6 +175,11 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
+        <td>{% post_link BananaCreamPieMuddyBuddies Banana Cream Pie Muddy Buddies %}</td>
+        <td>N/A</td>
+        <td>Chex, Banana Cream pudding mix, White chocolate chips</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocCaramelPretzelBark Chocolate Caramel Pretzel Bark %}</td>
         <td>9-12 minutes</td>
         <td>Pretzels, Chocolate chips</td>
