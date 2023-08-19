@@ -35,6 +35,11 @@ date: 2022-04-07 20:09:24
         <td>Pepperoni, Mozzarella cheese</td>
     </tr>
     <tr>
+        <td>{% post_link ProsciuttoAppleCheddarWraps Prosciutto Apple Cheddar Wraps %}</td>
+        <td>N/A</td>
+        <td>Apple, White cheddar cheese, Prosciutto</td>
+    </tr>
+    <tr>
         <td>{% post_link RitzSandwiches Ritz Sandwiches %}</td>
         <td>10-12 minutes</td>
         <td>Ritz crackers, Ham, Swiss cheese</td>
