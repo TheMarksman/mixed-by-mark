@@ -213,7 +213,12 @@ date: 2022-04-07 20:09:24
         <th>Bake Time</th>
         <th>Featured Ingredient(s)</th>
     </tr>
+    <tr>
+        <td>{% post_link AppleCinnamonCookies Apple Cinnamon Cookies %}</td>
+        <td>12-14 minutes</td>
+        <td>Apple, Cinnamon, Old-fashioned oats</td>
     </tr>
+    <tr>
         <td>{% post_link BananaPuddingCookies Banana Pudding Cookies %}</td>
         <td>9 minutes</td>
         <td>Banana Pudding mix</td>
