@@ -360,7 +360,7 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
-        <td>Chocolate Raspberry Tarts</td>
+        <td>{% post_link ChocolateRaspberryTarts Chocolate Raspberry Tarts %}</td>
         <td>30-35 minutes</td>
         <td>Bittersweet chocolate chips, Raspberries</td>
     </tr>

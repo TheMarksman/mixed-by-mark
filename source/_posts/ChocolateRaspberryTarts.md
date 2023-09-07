@@ -1,8 +1,9 @@
 ---
 title: Chocolate Raspberry Tarts
-date: 2023-09-02
+date: 2023-09-07 00:00:00
 tags:
 ---
+
 {% asset_img top-image ChocolateRaspberryTarts13.jpg %}
 <div class="post-body">
 These Chocolate Raspberry Tarts are an exciting, delicious treat, with a creamy, chocolate ganache filling. 
@@ -108,14 +109,14 @@ Pour the chocolate ganache into the cooled crusts. Spread it so that it is smoot
                 <li>1 egg</li>
         </ul>
         <p style="font-size:120%;"><b>Chocolate Ganache:</b></p>
-        <ul>
+        <ul class="post-body">
                 <li>10 oz bittersweet chocolate chips</li>
                 <li>1 c heavy cream</li>
                 <li>2 tsp vanilla</li>
                 <li>2 Tbsp butter, softened</li>
         </ul>
         <p style="font-size:120%;"><b>Topping:</b></p>
-        <ul>
+        <ul class="post-body">
                 <li>2 c fresh raspberries</li>
                 <li>powdered sugar, for sprinkling</li>
         </ul>
