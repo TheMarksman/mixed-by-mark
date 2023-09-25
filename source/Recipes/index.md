@@ -224,6 +224,11 @@ date: 2022-04-07 20:09:24
         <td>Banana Pudding mix</td>
     </tr>
     <tr>
+        <td>{% post_link BananaSplitCookies Banana Split Cookies %}</td>
+        <td>9-10 minutes</td>
+        <td>White cake mix, Banana pudding mix, Maraschino cherries, Sprinkles</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocolateChipCookies Chocolate Chip Cookies %}</td>
         <td>9-11 minutes</td>
         <td>Chocolate chips</td>
@@ -252,6 +257,11 @@ date: 2022-04-07 20:09:24
         <td>{% post_link CookiesCreamCookies Cookies & Cream Cookies %}</td>
         <td>9 minutes</td>
         <td>Oreos</td>
+    </tr>
+    <tr>
+        <td>{% post_link FluffernutterCookies Fluffernutter Cookies %}</td>
+        <td>10-12 minutes</td>
+        <td>Peanut butter, Marshmallow fluff</td>
     </tr>
     <tr>
         <td>{% post_link FunfettiCookies Funfetti Cookies %}</td>

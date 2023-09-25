@@ -2,6 +2,7 @@
 title: About Me & Life Updates
 date: 2022-04-08 20:12:31
 ---
+09/24/2023 {% post_link ElayneIsTwo Elayne is Two!! %}
 07/04/2023 {% post_link 4thOfJuly2023 Happy 4th!! %}
 05/16/2023 {% post_link WeMoved We Moved!! %}
 04/09/2023 {% post_link Easter2023 Happy Easter!! %}
