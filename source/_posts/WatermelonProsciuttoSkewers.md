@@ -54,7 +54,7 @@ Finally, immediately before serving, drizzle the balsamic glaze over the skewers
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 36 skewers</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img WatermelonProsciuttoSkewers4.jpg %} -->
+            {% asset_img recipe-title-box-img WatermelonProsciuttoSkewers4.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

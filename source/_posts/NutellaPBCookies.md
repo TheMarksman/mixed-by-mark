@@ -60,7 +60,7 @@ Bake the cookies for 10-12 minutes. They will look underdone, but will firm up s
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 48 cookies </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img NutellaPBCookies2.jpg %} -->
+            {% asset_img recipe-title-box-img NutellaPBCookies2.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

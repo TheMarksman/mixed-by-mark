@@ -93,7 +93,7 @@ Bake the shortbread bars for 30-35 minutes, until the top is a nice golden brown
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 bars</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img ChocCaramelShortbreadBars11.jpg %} -->
+            {% asset_img recipe-title-box-img ChocCaramelShortbreadBars11.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

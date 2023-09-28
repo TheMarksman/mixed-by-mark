@@ -50,7 +50,7 @@ Stir in the Rice Krispies cereal and crushed graham crackers until fully coated.
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 bars</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img KeyLimePieRiceKrispieTreats4.jpg %} -->
+            {% asset_img recipe-title-box-img KeyLimePieRiceKrispieTreats4.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

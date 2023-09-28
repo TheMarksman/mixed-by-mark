@@ -52,7 +52,7 @@ Once the cupcakes are fully cooled, we can swirl the frosting on top. In order t
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 18 cupcakes</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img BananaCupcakes2.jpg %} -->
+            {% asset_img recipe-title-box-img BananaCupcakes2.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

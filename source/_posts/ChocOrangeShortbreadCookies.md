@@ -47,7 +47,7 @@ Once the cookies have fully cooled, melt the remaining cup of chocolate chips in
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 cookies</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img ChocOrangeShortbreadCookies1.jpg %} -->
+            {% asset_img recipe-title-box-img ChocOrangeShortbreadCookies1.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

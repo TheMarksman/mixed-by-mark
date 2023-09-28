@@ -58,7 +58,7 @@ If you are making these bites for a party, I know how crucial it can be to prep 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 servings</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img SweetPotatoFetaBites3.jpg %} -->
+            {% asset_img recipe-title-box-img SweetPotatoFetaBites3.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

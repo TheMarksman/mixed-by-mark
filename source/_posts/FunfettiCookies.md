@@ -57,7 +57,7 @@ Finally, scoop the dough into balls and place them onto a greased baking sheet. 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 34 cookies</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img FunfettiCookies4.jpg %} -->
+            {% asset_img recipe-title-box-img FunfettiCookies4.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

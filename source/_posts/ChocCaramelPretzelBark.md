@@ -63,7 +63,7 @@ Once all the chocolate is spread out evenly, place the baking sheet in the freez
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 servings</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img ChocCaramelPretzelBark6.jpg %} -->
+            {% asset_img recipe-title-box-img ChocCaramelPretzelBark6.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

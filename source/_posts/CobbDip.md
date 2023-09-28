@@ -61,7 +61,7 @@ Once all your layers are added, you're ready to eat! I like to serve this dip wi
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 pie plate of dip </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img CobbDip5.jpg %} -->
+            {% asset_img recipe-title-box-img CobbDip5.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

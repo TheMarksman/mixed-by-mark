@@ -60,7 +60,7 @@ Finally, assemble the skewers. Poke a toothpick through a sweet potato cube, fol
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 75 skewers</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img SweetPotatoSausageSkewers6.jpg %} -->
+            {% asset_img recipe-title-box-img SweetPotatoSausageSkewers6.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

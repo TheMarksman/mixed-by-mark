@@ -59,7 +59,7 @@ One thing to note is that they will look underdone when they are removed from th
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img Cookies&CreamCookies5.jpg %} -->
+            {% asset_img recipe-title-box-img Cookies&CreamCookies5.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

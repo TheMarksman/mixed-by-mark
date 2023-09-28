@@ -81,7 +81,7 @@ Finally, bake the cookies for 9-10 minutes, until they begin to turn a golden br
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 cookies</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img FluffernutterCookies11.jpg %} -->
+            {% asset_img recipe-title-box-img FluffernutterCookies11.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

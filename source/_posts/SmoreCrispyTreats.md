@@ -47,7 +47,7 @@ As soon as I started cutting the marshmallows, they were sticking to my hands, m
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 bars</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img SmoreCrispyTreats3.jpg %} -->
+            {% asset_img recipe-title-box-img SmoreCrispyTreats3.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

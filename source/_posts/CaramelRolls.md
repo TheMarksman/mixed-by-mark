@@ -61,7 +61,7 @@ Bake the caramel rolls for 15-18 minutes, until the rolls are golden brown. Let 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 servings </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img CaramelRolls6.jpg %} -->
+            {% asset_img recipe-title-box-img CaramelRolls6.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

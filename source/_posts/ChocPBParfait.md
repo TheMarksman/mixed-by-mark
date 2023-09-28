@@ -51,7 +51,7 @@ For the serving glasses, I used some pretty juice glasses that I had at home. Yo
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 6 parfaits</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img PBChocParfait2.jpg %} -->
+            {% asset_img recipe-title-box-img PBChocParfait2.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

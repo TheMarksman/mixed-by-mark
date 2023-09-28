@@ -38,7 +38,7 @@ Bake for 12-16 minutes, until the cheese is melted and the breadcrumbs are toast
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: dependent on number of phyllo cups used</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img SpinachArtichokeBites.jpg %} -->
+            {% asset_img recipe-title-box-img SpinachArtichokeBites.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

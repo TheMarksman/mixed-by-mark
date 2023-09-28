@@ -74,9 +74,9 @@ Once you let the food coloring dry for a couple minutes, you're done! You now ha
                 <div class="recipe-title-box-title">
                     <div class="recipe-title-box-header">Cookie Icing</div>
                 </div>
-                <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
+                <p class="recipe-title-box-title" style="font-family: Arial;"></p>
             </div>
-            <!-- {% asset_img recipe-title-box-img MeltingSnowmenCookies1.jpg %} -->
+            {% asset_img recipe-title-box-img MeltingSnowmenCookies1.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

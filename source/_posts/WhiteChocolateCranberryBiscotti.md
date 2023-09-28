@@ -78,7 +78,7 @@ Once the biscotti is fully cooled, you can drizzle chocolate or dip them in choc
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: About 20 biscotti</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img WhiteChocolateBiscotti9.jpg %} -->
+            {% asset_img recipe-title-box-img WhiteChocolateBiscotti9.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

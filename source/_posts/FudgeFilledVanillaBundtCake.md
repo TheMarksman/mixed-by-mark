@@ -77,7 +77,7 @@ After removing the cake from the oven, allow it to cool for about 10 minutes bef
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 bundt cake</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img FudgeVanillaBundt7.jpg %} -->
+            {% asset_img recipe-title-box-img FudgeVanillaBundt7.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

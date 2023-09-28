@@ -47,7 +47,7 @@ Next, make the glaze. Combine the butter, sugar, water, and rum in a sauce pan. 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 large bundt cake or 12 mini bundts </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img RumCake2.jpg %} -->
+            {% asset_img recipe-title-box-img RumCake2.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

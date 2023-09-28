@@ -47,7 +47,7 @@ After the dough has chilled, roll out the dough into 1-inch balls and place them
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 2 dozen cookies </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img CinnamonCookies2.jpg %} -->
+            {% asset_img recipe-title-box-img CinnamonCookies2.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

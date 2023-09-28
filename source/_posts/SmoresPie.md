@@ -66,7 +66,7 @@ Spread the filling over the set chocolate. Refrigerate 2-3 hours until the filli
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 pie</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img SmoresPie10.jpg %} -->
+            {% asset_img recipe-title-box-img SmoresPie10.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

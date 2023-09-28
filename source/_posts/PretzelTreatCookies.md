@@ -57,7 +57,7 @@ Scoop the dough into 1-inch balls on the prepared baking sheet. Bake for 8-10 mi
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 40 cookies </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img PretzelTreatCookies6.jpg %} -->
+            {% asset_img recipe-title-box-img PretzelTreatCookies6.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

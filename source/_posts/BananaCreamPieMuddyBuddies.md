@@ -60,7 +60,7 @@ Spread the Chex out on waxed paper. Sprinkle the remaining ½ c powdered sugar o
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 servings</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img BananaCreamPieMuddyBuddies2.jpg %} -->
+            {% asset_img recipe-title-box-img BananaCreamPieMuddyBuddies2.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

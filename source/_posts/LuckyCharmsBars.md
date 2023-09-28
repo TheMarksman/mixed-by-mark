@@ -57,7 +57,7 @@ Allow the bars to cool fully before cutting and serving them.
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 bars </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img LuckyCharmsBars6.jpg %} -->
+            {% asset_img recipe-title-box-img LuckyCharmsBars6.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

@@ -18,7 +18,6 @@ Despite my love of peanut butter, I have never been a big fan on the traditional
 
 But these Peanut Butter Monster Cookies have everything I want. The Reese's Pieces and peanut butter chips add a creaminess, and the oats help to make the cookies satisfying and more filling. 
 
-<div style="display: flex;">
 They are full of a rich peanut butter flavor, are very easy to make, and loved by all who eat them (assuming they like peanut butter 😋). 
 
 The cookies are easy to make. 
@@ -26,8 +25,8 @@ In a large bowl of a stand mixer, cream together the butter, brown sugar, and pe
 
 Finally, stir in the flour, baking soda, cornstarch, baking powder, salt, and oats. Stir until everything is combined. Stir in the peanut butter chips and Reese's Pieces. 
 
+<div style="display: flex;">
 Roll the dough into balls and place them on a greased baking sheet. Gently press down on the dough to form a thick cookie shape. Bake for 10-12 minutes, until the edges of the cookie are just set. Remove the cookies from the oven and allow them to cool for a couple minutes before removing from the pan. 
-
 <div>
     {% asset_img floating-image PBMonsterCookies3.jpg %}
 </div>
@@ -46,7 +45,7 @@ Roll the dough into balls and place them on a greased baking sheet. Gently press
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 30 cookies</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img PBMonsterCookies2.jpg %} -->
+            {% asset_img recipe-title-box-img PBMonsterCookies2.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

@@ -35,7 +35,7 @@ The recipe is simple. It involves a yellow cake mix and a package of instant cho
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 large cake or 12 small bundts </p>
             </div>
-            <!-- {% asset_img recipe-title-box-img ChocPuddingCake.jpg %} -->
+            {% asset_img recipe-title-box-img ChocPuddingCake.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

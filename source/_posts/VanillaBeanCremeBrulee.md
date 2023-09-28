@@ -97,7 +97,7 @@ If you don't have a butane torch, place the ramekins under the broiler in your o
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 4 servings</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img VanillaBeanCremeBrulee7.jpg %} -->
+            {% asset_img recipe-title-box-img VanillaBeanCremeBrulee7.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

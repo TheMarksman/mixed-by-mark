@@ -42,7 +42,7 @@ Optionally, you can also add some chocolate to these cookies. If desired, simply
                 </div>
                 <p class="recipe-title-box-title" style="font-family:Arial;">Yield: about 30 cookies</p>
             </div>
-            <!-- {% asset_img recipe-title-box-img CoconutOatmealCookies2.jpg %} -->
+            {% asset_img recipe-title-box-img CoconutOatmealCookies2.jpg %}
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >
