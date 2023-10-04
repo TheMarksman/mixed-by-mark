@@ -234,6 +234,11 @@ date: 2022-04-07 20:09:24
         <td>Chocolate chips</td>
     </tr>
     <tr>
+        <td>{% post_link ChocolateOrangeCookies Chocolate Orange Cookies %}</td>
+        <td>9-10 minutes</td>
+        <td>Orange zest, Cocoa powder</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocOrangeShortbreadCookies Chocolate Orange Shortbread Cookies %}</td>
         <td>13-15 minutes</td>
         <td>Chocolate chips, Orange zest, Sea salt</td>
@@ -287,6 +292,11 @@ date: 2022-04-07 20:09:24
         <td>{% post_link PretzelTreatCookies Pretzel Treat Cookies %}</td>
         <td>8-10 minutes</td>
         <td>Hershey's Hugs, Pretzels, M&M's</td>
+    </tr>
+    <tr>
+        <td>{% post_link SaltedVanillaToffeeCookies Salted Vanilla Toffee Cookies %}</td>
+        <td>8-9 minutes</td>
+        <td>Heath bits, Vanilla bean seeds, Sea salt</td>
     </tr>
     <tr>
         <td>{% post_link SugarCookies Sugar Cookies %}</td>
