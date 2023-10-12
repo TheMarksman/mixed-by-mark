@@ -284,6 +284,11 @@ date: 2022-04-07 20:09:24
         <td>Nutella, Peanut butter</td>
     </tr>
     <tr>
+        <td>{% post_link NutterButterBabies Nutter Butter Babies %}</td>
+        <td>N/A</td>
+        <td>Nutter Butters, White chocolate bark</td>
+    </tr>
+    <tr>
         <td>{% post_link PBMonsterCookies Peanut Butter Monster Cookies %}</td>
         <td>10-12 minutes</td>
         <td>Peanut butter, Reese's Pieces</td>
