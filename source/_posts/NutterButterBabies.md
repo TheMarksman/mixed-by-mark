@@ -43,11 +43,10 @@ In a small bowl, melt some chocolate chips in the microwave. I just heated it fo
 </div>
 <br>
 
-<div style="display:flex;">
 However you choose to do it, draw on the details. I drew the eyes to look like they're closed, and a small smile. Also, on some I drew a little curl of hair. I didn't do it on all of them, because it was dependent on the amount of space I had left above the eyes of each cookie. Also, I was worried that it would look like too much if I added it to every cookie. Anyways, the curl of hair is optional. If you're making little girls, you could do a little hairbow or something. Be creative. 
-<div>
-    {% asset_img floating-image NutterButterBabies3.jpg %}
-</div>
+<div style="display:flex;">
+    {% asset_img side-by-side NutterButterBabies3.jpg %}
+    {% asset_img side-by-side NutterButterBabies8.jpg %}
 </div>
 
 <br>
