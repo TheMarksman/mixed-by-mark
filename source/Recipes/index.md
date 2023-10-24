@@ -279,6 +279,11 @@ date: 2022-04-07 20:09:24
         <td>Peanut butter, Marshmallow fluff</td>
     </tr>
     <tr>
+        <td>{% post_link FruityPebblesCookies Fruity Pebbles Cookies %}</td>
+        <td>8-9 minutes</td>
+        <td>Fruity Pebbles cereal</td>
+    </tr>
+    <tr>
         <td>{% post_link FunfettiCookies Funfetti Cookies %}</td>
         <td>10-12 minutes</td>
         <td>Funfetti cake mix</td>
