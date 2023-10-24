@@ -123,6 +123,11 @@ date: 2022-04-07 20:09:24
         <td>Crescent roll dough, Cinnamon</td>
     </tr>
     <tr>
+        <td>{% post_link ChocolateChipPumpkinBread Chocolate Chip Pumpkin Bread %}</td>
+        <td>55-60 minutes</td>
+        <td>Pumpkin puree, Sour cream, Cinnamon, Nutmeg, Chocolate chips</td>
+    </tr>
+    <tr>
         <td>{% post_link HoneyOatBread Honey Oat Bread %}</td>
         <td>40 minutes</td>
         <td>Honey, Old-fashioned oats</li>
