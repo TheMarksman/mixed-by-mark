@@ -19,6 +19,7 @@ I love fall, even though here in Georgia it is a very short season. But I love s
 
 Over the weekend, we had a Halloween party, and I made these treats as part of the food spread. Everyone raved over them. They are absolutely delicious. It's just like eating a caramel apple, but you get the addition of a salty pretzel. 
 
+<br>
 <div style="display:flex;">
 And, as a bonus, they are so easy to make. All you need are square pretzels, Rolos, Granny Smith apples, and some lemon juice. The quantity of each ingredient is dependent on how many treats you'd like to make. Typically, it is contrained by the amount of Rolos you have. I used 2 bags of Rolos, and I only needed one bag of pretzels and one apple, and then just a little lemon juice. 
 <div>
