@@ -195,6 +195,11 @@ date: 2022-04-07 20:09:24
         <td>Chex, Banana Cream pudding mix, White chocolate chips</td>
     </tr>
     <tr>
+        <td>{% post_link CaramelAppleTreats Caramel Apple Treats %}</td>
+        <td>5 minutes</td>
+        <td>Rolos, Apple, Pretzels</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocCaramelPretzelBark Chocolate Caramel Pretzel Bark %}</td>
         <td>9-12 minutes</td>
         <td>Pretzels, Chocolate chips</td>
