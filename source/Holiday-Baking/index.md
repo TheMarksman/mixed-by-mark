@@ -54,6 +54,9 @@ date: 2022-04-08 20:11:53
         <th>Recipe</th>
     </tr>
     <tr>
+        <td>{% post_link ChocolatePBSkulls Chocolate Peanut Butter Skulls %}</td>
+    </tr>
+    <tr>
         <td>{% post_link PumpkinPretzels Pumpkin Pretzels %}</td>
     </tr>
 </table>

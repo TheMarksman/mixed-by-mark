@@ -1,8 +1,9 @@
 ---
 title: Chocolate Peanut Butter Skulls
-date: 2023-10-30
+date: 2023-11-01 00:00:00
 tags:
 ---
+
 {% asset_img top-image ChocolatePBSkulls8.jpg %}
 <div class="post-body">
 It's that time of year again: Halloween! These Chocolate Peanut Butter Skulls are a fun treat for a Halloween party, or anyone just in the holiday spirit. 
@@ -34,6 +35,25 @@ Start by making the peanut butter filling. In the bowl of a stand mixer, mix tog
 </div>
 
 Next, melt the chocolate chips. Because I was only using one mold, I just melted a little chocolate at a time. Place the chocolate chips in a microwave-safe bowl. Microwave for 30 seconds, then stir. Heat again for another 30 seconds. If you're chocolate is not fully melted and smooth, continue microwaving for 15 second increments, stirring after each heating. 
+Once the chocolate is fully melted, spoon a little chocolate into each skully mold, filling it about halfway full. 
+
+<div style="display:flex;">
+    {% asset_img side-by-side ChocolatePBSkulls5.jpg %}
+    {% asset_img side-by-side ChocolatePBSkulls1.jpg %}
+</div>
+
+Next, take a pinch of the peanut butter filling, and place it in each skull mold. Then fill the mold the rest of the way up with more chocolate. Place the skulls in the fridge so that the chocolate can harden. 
+<div style="display:flex;">
+    {% asset_img side-by-side ChocolatePBSkulls2.jpg %}
+    {% asset_img side-by-side ChocolatePBSkulls3.jpg %}
+</div>
+
+<div style="display:flex;">
+When the chocolate is fully hardened, you can pop out the skulls and serve them. I recommend removing them from the fridge a little while before serving. This way, the chocolate won't be too cold or hard to bite. 
+<div>
+    {% asset_img floating-image ChocolatePBSkulls7.jpg %}
+</div>
+</div>
 
 <br>
 </div>
