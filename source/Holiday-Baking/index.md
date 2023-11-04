@@ -60,6 +60,9 @@ date: 2022-04-08 20:11:53
         <td>{% post_link ChocolatePBSkulls Chocolate Peanut Butter Skulls %}</td>
     </tr>
     <tr>
+        <td>{% post_link CreepyCrawlerHaystacks Creepy Crawler Haystacks %}</td>
+    </tr>
+    <tr>
         <td>{% post_link PumpkinCheeseball Pumpkin Cheeseball %}</td>
     </tr>
     <tr>
