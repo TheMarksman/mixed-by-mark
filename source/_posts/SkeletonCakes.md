@@ -1,8 +1,9 @@
 ---
 title: Skeleton Cakes
-date: 2023-11-05
+date: 2023-11-05 00:00:00
 tags:
 ---
+
 {% asset_img top-image SkeletonCakes6.jpg %}
 <div class="post-body">
 These Skeleton cakes are a delicious, more professional looking dessert for your Halloween festivities. 
@@ -12,6 +13,9 @@ These Skeleton cakes are a delicious, more professional looking dessert for your
 
 For our Halloween party, I decided I also wanted to make some cakes. The cakes were more a test of my decorating abilities than my actual baking. 
 
+<br>
+<br>
+<br>
 <div style="display:flex;">
 I had found this skeleton cake pan at a store and thought it would be fun to try. 
 <div>
@@ -26,20 +30,16 @@ For the yellow cake, I decided to use chocolate frosting, and for the chocolate 
 Once the cakes are baked and fully cooled, add both frostings to piping bags with star tips. 
 To decorate these cakes, I just piped the starts all over the cake, making sure to lift up upon release, so that you end up with a good shape to your frosting. 
 
-<div style="display:flex;">
 th one color frosting. Then fill in the remaining surface of the cake with the other type of frosting. 
-<div>
-    {% asset_img floating-image SkeletonCakes2.jpg %}
-</div>
+<div style="display:flex;">
+    {% asset_img side-by-side SkeletonCakes2.jpg %}
+    {% asset_img side-by-side SkeletonCakes5.jpg %}
 </div>
 
+<br>
 <div style="display:flex;">
     {% asset_img side-by-side SkeletonCakes3.jpg %}
     {% asset_img side-by-side SkeletonCakes4.jpg %}
-</div>
-
-<div style="display:flex;">
-    {% asset_img floating-image SkeletonCakes5.jpg %}
 </div>
 
 <br>
