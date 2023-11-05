@@ -77,6 +77,9 @@ date: 2022-04-08 20:11:53
     <tr>
         <td>{% post_link PumpkinPretzels Pumpkin Pretzels %}</td>
     </tr>
+    <tr>
+        {% post_link SkeletonCakes Skeleton Cakes %}</td>
+    </tr>
 </table>
 
 <h3>St. Patrick's Day</h3>
