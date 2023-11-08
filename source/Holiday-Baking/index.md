@@ -78,7 +78,7 @@ date: 2022-04-08 20:11:53
         <td>{% post_link PumpkinPretzels Pumpkin Pretzels %}</td>
     </tr>
     <tr>
-        {% post_link SkeletonCakes Skeleton Cakes %}</td>
+        <td>{% post_link SkeletonCakes Skeleton Cakes %}</td>
     </tr>
 </table>
 
