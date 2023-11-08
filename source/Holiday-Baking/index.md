@@ -69,7 +69,7 @@ date: 2022-04-08 20:11:53
         <td>{% post_link MeltingWitchBrownies Melting Witch Brownies %}</td>
     </tr>
     <tr>
-        {% post_link PukingPumpkinPasta Puking Pumpkin Pasta %}</td>
+        <td>{% post_link PukingPumpkinPasta Puking Pumpkin Pasta %}</td>
     </tr>
     <tr>
         <td>{% post_link PumpkinCheeseball Pumpkin Cheeseball %}</td>
