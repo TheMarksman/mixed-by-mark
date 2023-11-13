@@ -15,7 +15,10 @@ This Cherry Vanilla Tart is absolutely delicious, with a tart sweetness and a cr
     Jump to Recipe
 </a>
 
+<br>
 I made this tart the other night, because we had a friend coming over to watch the Atlanta United game. And of course, when we have people over, I make sure to have plenty (or too much) food for everyone! And, having people over is the perfect time to try out some new recipes. I'm always in need of a guinea pig 😊 
+
+This tart was so yummy! I'm definitely going to make it again! We all loved it, even Tommy, who is not much of a sweets person! I think all of us even decided to get a second piece! 
 
 <div style="display:flex;">
 This tart was actually very easy to make. But it looked impressive, and was a fun alternative to the typical cookies or brownies. I think it's the perfect treat to bring if you're going to someone's house and want to provide dessert. 
