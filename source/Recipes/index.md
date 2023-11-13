@@ -405,6 +405,11 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
+        <td>{% post_link CherryVanillaTart Cherry Vanilla Tart %}</td>
+        <td>38-40 minutes</td>
+        <td>Frozen cherries, Cherry preserves</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocolateRaspberryTarts Chocolate Raspberry Tarts %}</td>
         <td>30-35 minutes</td>
         <td>Bittersweet chocolate chips, Raspberries</td>
