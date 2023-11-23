@@ -244,7 +244,7 @@ date: 2022-04-07 20:09:24
         <td>Chocolate chips</td>
     </tr>
     <tr>
-        <td>{% post_link ChocolateM&MCookies Chocolate M&M Cookies %}</td>
+        <td>{% post_link ChocolateMMCookies Chocolate M&M Cookies %}</td>
         <td>8 minutes</td>
         <td>Chocolate pudding mix, M&M's, Chocolate chips</td>
     </tr>
