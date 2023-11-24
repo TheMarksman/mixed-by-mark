@@ -2,7 +2,8 @@
 title: About Me & Life Updates
 date: 2022-04-08 20:12:31
 ---
-10-31-2023 {% post_link Halloween2023 Happy Halloween!! %}
+11/23/2023 {% post_link Thanksgiving2023 Happy Thanksgiving!! %}
+10/31/2023 {% post_link Halloween2023 Happy Halloween!! %}
 09/24/2023 {% post_link ElayneIsTwo Elayne is Two!! %}
 07/04/2023 {% post_link 4thOfJuly2023 Happy 4th!! %}
 05/16/2023 {% post_link WeMoved We Moved!! %}
