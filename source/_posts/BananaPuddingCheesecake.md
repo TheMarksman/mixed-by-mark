@@ -55,7 +55,7 @@ Now you get to decorate! I recommend spooning the whipped cream into a pastry ba
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 cake</p>
             </div>
-            {% asset_img recipe-title-box-img BananaPuddingCheesecake2.jpg %}
+            <!-- {% asset_img recipe-title-box-img BananaPuddingCheesecake2.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

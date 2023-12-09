@@ -59,7 +59,7 @@ Place the dough balls on a greased baking sheet, and bake for 9 minutes. The coo
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 45 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img BananaPuddingCookies3.jpg %}
+            <!-- {% asset_img recipe-title-box-img BananaPuddingCookies3.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

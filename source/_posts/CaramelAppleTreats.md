@@ -61,7 +61,7 @@ Bake the treats for about 5 minutes, or until the Rolos are very soft. Remove th
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: dependent on number of Rolos used</p>
             </div>
-            {% asset_img recipe-title-box-img CaramelAppleTreats5.jpg %}
+            <!-- {% asset_img recipe-title-box-img CaramelAppleTreats5.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

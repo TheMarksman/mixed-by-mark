@@ -82,7 +82,7 @@ Once the doughnuts are completely cool, drizzle the doughnuts with the glaze. Al
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 8-10 doughnuts</p>
             </div>
-            {% asset_img recipe-title-box-img CoffeeCakeDoughnuts1.jpg %}
+            <!-- {% asset_img recipe-title-box-img CoffeeCakeDoughnuts1.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

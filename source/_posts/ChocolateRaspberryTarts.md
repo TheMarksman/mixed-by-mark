@@ -92,7 +92,7 @@ Pour the chocolate ganache into the cooled crusts. Spread it so that it is smoot
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 large tart or 6-8 small tarts</p>
             </div>
-            {% asset_img recipe-title-box-img ChocolateRaspberryTarts13.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocolateRaspberryTarts13.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

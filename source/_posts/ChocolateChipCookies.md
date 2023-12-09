@@ -48,7 +48,7 @@ Finally, stir in the chocolate chips by hand. Spoon the dough onto the baking sh
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img ChocolateChipCookies.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocolateChipCookies.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

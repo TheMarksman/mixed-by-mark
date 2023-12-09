@@ -88,7 +88,7 @@ Right before you are ready to serve your dessert, melt the white chocolate chips
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 servings </p>
             </div>
-            {% asset_img recipe-title-box-img BerryIceboxCake2.jpg %}
+            <!-- {% asset_img recipe-title-box-img BerryIceboxCake2.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

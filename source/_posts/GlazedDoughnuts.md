@@ -81,7 +81,7 @@ Allow the glaze to set for about 30 minutes before serving.
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 8-10 doughnuts</p>
             </div>
-            {% asset_img recipe-title-box-img GlazedDoughnuts10.jpg %}
+            <!-- {% asset_img recipe-title-box-img GlazedDoughnuts10.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

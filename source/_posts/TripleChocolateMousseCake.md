@@ -112,7 +112,7 @@ Before serving, run a knife around the perimeter of the cake to prevent the edge
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 servings</p>
             </div>
-            {% asset_img recipe-title-box-img TripleChocolateMousseCake1.jpg %}
+            <!-- {% asset_img recipe-title-box-img TripleChocolateMousseCake1.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

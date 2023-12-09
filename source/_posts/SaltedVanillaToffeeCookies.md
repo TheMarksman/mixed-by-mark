@@ -87,7 +87,7 @@ My only complaint about these cookies is that they tend to be difficult to remov
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 40 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img SaltedVanillaToffeeCookies8.jpg %}
+            <!-- {% asset_img recipe-title-box-img SaltedVanillaToffeeCookies8.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

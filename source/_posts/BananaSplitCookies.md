@@ -59,7 +59,7 @@ Scoop the cookie dough onto the prepared baking sheet. Bake for 9-10 minutes, un
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 32 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img BananaSplitCookies1.jpg %}
+            <!-- {% asset_img recipe-title-box-img BananaSplitCookies1.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

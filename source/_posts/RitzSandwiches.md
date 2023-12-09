@@ -74,7 +74,7 @@ If you want to prep the sandwiches ahead of time, I recommend assembling the san
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 48 sandwiches</p>
             </div>
-            {% asset_img recipe-title-box-img RitzSandwiches7.jpg %}
+            <!-- {% asset_img recipe-title-box-img RitzSandwiches7.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

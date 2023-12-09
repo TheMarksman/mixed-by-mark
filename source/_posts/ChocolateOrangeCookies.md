@@ -64,7 +64,7 @@ Bake the cookies for 9-10 minutes, until the edges begin to harden. Allow the co
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24-26 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img ChocolateOrangeCookies8.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocolateOrangeCookies8.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

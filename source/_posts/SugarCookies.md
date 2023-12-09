@@ -57,7 +57,7 @@ Let the cookies cool for a few minutes on the pan before removing them to cool f
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img SugarCookie4.jpg %}
+            <!-- {% asset_img recipe-title-box-img SugarCookie4.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

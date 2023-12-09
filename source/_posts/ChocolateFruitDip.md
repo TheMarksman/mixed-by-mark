@@ -44,7 +44,7 @@ When I served my dip at our housewarming party last weekend, I wasn't thinking a
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 2 cups</p>
             </div>
-            {% asset_img recipe-title-box-img ChocolateFruitDip4.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocolateFruitDip4.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

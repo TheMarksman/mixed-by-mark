@@ -70,7 +70,7 @@ And while Tommy and I enjoyed a free weekend with friends, Elayne had fun with h
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 25 squares</p>
             </div>
-            {% asset_img recipe-title-box-img ChocCaramelEspressoBar10.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocCaramelEspressoBar10.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

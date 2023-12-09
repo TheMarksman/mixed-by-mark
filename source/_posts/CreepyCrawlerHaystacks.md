@@ -60,7 +60,7 @@ Repeat the above steps with the dark chocolate and white chocolate. This way, yo
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 50-60 creepy crawlers</p>
             </div>
-            {% asset_img recipe-title-box-img CreepyCrawlerHaystacks7.jpg %}
+            <!-- {% asset_img recipe-title-box-img CreepyCrawlerHaystacks7.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

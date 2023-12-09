@@ -77,7 +77,7 @@ Next, make the glaze. In a small bowl, combine the powdered sugar, milk, and syr
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 24 cookies</p>
             </div>
-             {% asset_img recipe-title-box-img AppleCinnamonCookies10.jpg %} 
+             <!-- {% asset_img recipe-title-box-img AppleCinnamonCookies10.jpg %}  -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

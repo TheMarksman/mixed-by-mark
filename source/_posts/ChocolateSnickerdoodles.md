@@ -61,7 +61,7 @@ Bake the cookies for 12 minutes, or until the edges just begin to crack. Pull th
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: about 40 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img ChocSnickerdoodle6.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocSnickerdoodle6.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

@@ -79,7 +79,7 @@ After they are heated through, remove from the oven and serve warm.
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 sliders</p>
             </div>
-            {% asset_img recipe-title-box-img GuinnessBeefSliders10.jpg %}
+            <!-- {% asset_img recipe-title-box-img GuinnessBeefSliders10.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

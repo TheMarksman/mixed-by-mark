@@ -40,7 +40,7 @@ For garnishment, I include a graham cracker, mini marshmallow, and piece of Hers
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 cupcakes</p>
             </div>
-            {% asset_img recipe-title-box-img SmoresCupcakes1.jpg %}
+            <!-- {% asset_img recipe-title-box-img SmoresCupcakes1.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

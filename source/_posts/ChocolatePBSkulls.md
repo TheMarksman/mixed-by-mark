@@ -68,7 +68,7 @@ When the chocolate is fully hardened, you can pop out the skulls and serve them.
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 75 skulls</p>
             </div>
-            {% asset_img recipe-title-box-img ChocolatePBSkulls8.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocolatePBSkulls8.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

@@ -71,7 +71,7 @@ Finally, make the glaze by mixing together the lemon juice and powdered sugar un
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 18-20 muffins</p>
             </div>
-            {% asset_img recipe-title-box-img LemonBlueberryMuffins6.jpg %}
+            <!-- {% asset_img recipe-title-box-img LemonBlueberryMuffins6.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

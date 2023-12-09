@@ -84,7 +84,7 @@ Pour the batter into the prepared loaf pan. Sprinkle the remaining ½ cup of cho
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 loaf</p>
             </div>
-            {% asset_img recipe-title-box-img ChocolateChipPumpkinBread14.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocolateChipPumpkinBread14.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

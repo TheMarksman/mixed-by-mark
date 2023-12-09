@@ -70,7 +70,7 @@ Bake the pizza bites for 16-20 minutes at 400°F. They are done when they are a 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 48 pizza bites</p>
             </div>
-            {% asset_img recipe-title-box-img PizzaBites6.jpg %}
+            <!-- {% asset_img recipe-title-box-img PizzaBites6.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

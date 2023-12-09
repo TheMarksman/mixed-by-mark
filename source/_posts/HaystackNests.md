@@ -59,7 +59,7 @@ When finished folding in the chow mein noodles, spoon the mixture into the greas
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 20-24 nests</p>
             </div>
-            {% asset_img recipe-title-box-img HaystackNests1.jpg %}
+            <!-- {% asset_img recipe-title-box-img HaystackNests1.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

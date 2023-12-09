@@ -72,7 +72,7 @@ Then wrap 4 large rubber bands around the cheeseball. Place it in the fridge for
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 servings</p>
             </div>
-            {% asset_img recipe-title-box-img PumpkinCheeseball9.jpg %}
+            <!-- {% asset_img recipe-title-box-img PumpkinCheeseball9.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

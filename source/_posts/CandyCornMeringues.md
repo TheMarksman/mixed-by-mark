@@ -81,7 +81,7 @@ Bake the meringues for 2 to 2½ hours. Make sure to check them every so often to
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 40-50 meringues</p>
             </div>
-            {% asset_img recipe-title-box-img CandyCornMeringues9.jpg %}
+            <!-- {% asset_img recipe-title-box-img CandyCornMeringues9.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

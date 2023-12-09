@@ -66,7 +66,7 @@ Place the key lime bites in the fridge to chill for at least 30 minutes. Immedia
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 30 bites</p>
             </div>
-            {% asset_img recipe-title-box-img KeyLimeBites6.jpg %}
+            <!-- {% asset_img recipe-title-box-img KeyLimeBites6.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

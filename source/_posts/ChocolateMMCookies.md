@@ -74,7 +74,7 @@ Bake the cookies for 8 minutes, until the edges begin to look slightly dried. Al
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 50 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img ChocolateMMCookies9.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChocolateMMCookies9.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

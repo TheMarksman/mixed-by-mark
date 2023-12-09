@@ -71,7 +71,7 @@ Finally, bake the brie for 15-20 minutes, until the puff pastry is golden brown.
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 brie</p>
             </div>
-            {% asset_img recipe-title-box-img BakedBrie7.jpg %}
+            <!-- {% asset_img recipe-title-box-img BakedBrie7.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

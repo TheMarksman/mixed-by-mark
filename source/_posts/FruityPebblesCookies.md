@@ -84,7 +84,7 @@ Allow the cookies to cool for a couple minutes on the pan, before removing to co
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 40-45 cookies</p>
             </div>
-            {% asset_img recipe-title-box-img FruityPebblesCookies9.jpg %}
+            <!-- {% asset_img recipe-title-box-img FruityPebblesCookies9.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

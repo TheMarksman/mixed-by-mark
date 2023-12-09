@@ -79,7 +79,7 @@ Once the cake is fully cooled, you can assemble and frost it. Place the first la
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 cake</p>
             </div>
-            {% asset_img recipe-title-box-img OreoCake13.jpg %}
+            <!-- {% asset_img recipe-title-box-img OreoCake13.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

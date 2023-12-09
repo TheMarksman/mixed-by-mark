@@ -83,7 +83,7 @@ Once cooled, you can slice and enjoy. I loved how the crust had a slightly sweet
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 1 loaf </p>
             </div>
-            {% asset_img recipe-title-box-img HoneyOatBread1.jpg %}
+            <!-- {% asset_img recipe-title-box-img HoneyOatBread1.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

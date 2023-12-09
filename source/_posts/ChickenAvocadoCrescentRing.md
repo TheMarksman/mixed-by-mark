@@ -72,7 +72,7 @@ When the ring is finished baking, allow it to cool for a couple minutes on the p
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 servings</p>
             </div>
-            {% asset_img recipe-title-box-img ChickenAvocadoCrescentRing7.jpg %}
+            <!-- {% asset_img recipe-title-box-img ChickenAvocadoCrescentRing7.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >

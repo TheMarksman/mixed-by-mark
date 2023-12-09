@@ -99,7 +99,7 @@ I would recommend eating this tart with a fork, instead of trying to pick it up 
                 </div>
                 <p class="recipe-title-box-title" style="font-family: Arial;">Yield: 12 servings</p>
             </div>
-            {% asset_img recipe-title-box-img CherryVanillaTart11.jpg %}
+            <!-- {% asset_img recipe-title-box-img CherryVanillaTart11.jpg %} -->
             <button class="print-recipe"
                     type="button"
                     onclick="printDIV('recipe')" >
