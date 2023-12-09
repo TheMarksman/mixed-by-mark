@@ -9,13 +9,13 @@ date: 2022-04-08 20:11:53
         <th>Recipe</th>
     </tr>
     <tr>
-        <td>{% post_link 4thOfJulyCake 4th of July Cake %}</td>
+        <td><img class="index-image" src="/images/July4Cake2.jpg" />{% post_link 4thOfJulyCake 4th of July Cake %}</td>
     </tr>
     <tr>
-        <td>{% post_link 4thOfJulyBlueberries 4th of July Blueberries %}</td>
+        <td><img class="index-image" src="/images/July4Blueberries2.jpg" />{% post_link 4thOfJulyBlueberries 4th of July Blueberries %}</td>
     </tr>
     <tr>
-        <td>{% post_link BerryIceboxCake Berry Icebox Cake %}</td>
+        <td><img class="index-image" src="/images/BerryIceboxCake2.jpg" />{% post_link BerryIceboxCake Berry Icebox Cake %}</td>
     </tr>
 </table>
 
@@ -25,10 +25,10 @@ date: 2022-04-08 20:11:53
         <th>Recipe</th>
     </tr>
     <tr>
-        <td>{% post_link MeltingSnowmenCookies Melting Snowmen Cookies %}</td>
+        <td><img class="index-image" src="/images/MeltingSnowmenCookies5.jpg" />{% post_link MeltingSnowmenCookies Melting Snowmen Cookies %}</td>
     </tr>
     <tr>
-        <td>{% post_link PeppermintMeringueCookies Peppermint Meringue Cookies %}</td>
+        <td><img class="index-image" src="/images/PeppermintMeringueCookies1.jpg" />{% post_link PeppermintMeringueCookies Peppermint Meringue Cookies %}</td>
     </tr>
 </table>
 
@@ -38,13 +38,13 @@ date: 2022-04-08 20:11:53
         <th>Recipe</th>
     </tr>
     <tr>
-        <td>{% post_link EasterCake Easter Nest Cake %}</td>
+        <td><img class="index-image" src="/images/EasterCake1.jpg" />{% post_link EasterCake Easter Nest Cake %}</td>
     </tr>
     <tr>
-        <td>{% post_link EasterSugarCookies Easter Sugar Cookies %}</td>
+        <td><img class="index-image" src="/images/EasterSugarCookies5.jpg" />{% post_link EasterSugarCookies Easter Sugar Cookies %}</td>
     </tr>
     <tr>
-        <td>{% post_link HaystackNests Haystack Nests %}</td>
+        <td><img class="index-image" src="/images/HaystackNests1.jpg" />{% post_link HaystackNests Haystack Nests %}</td>
     </tr>
 </table>
 
@@ -54,31 +54,31 @@ date: 2022-04-08 20:11:53
         <th>Recipe</th>
     </tr>
     <tr>
-        <td>{% post_link CandyCornMeringues Candy Corn Meringues %}</td>
+        <td><img class="index-image" src="/images/CandyCornMeringues9.jpg" />{% post_link CandyCornMeringues Candy Corn Meringues %}</td>
     </tr>
     <tr>
-        <td>{% post_link ChocolatePBSkulls Chocolate Peanut Butter Skulls %}</td>
+        <td><img class="index-image" src="/images/ChocolatePBSkulls7.jpg" />{% post_link ChocolatePBSkulls Chocolate Peanut Butter Skulls %}</td>
     </tr>
     <tr>
-        <td>{% post_link CreepyCrawlerHaystacks Creepy Crawler Haystacks %}</td>
+        <td><img class="index-image" src="/images/CreepyCrawlerHaystacks7.jpg" />{% post_link CreepyCrawlerHaystacks Creepy Crawler Haystacks %}</td>
     </tr>
     <tr>
-        <td>{% post_link MummyMeatballs Mummy Meatballs %}</td>
+        <td><img class="index-image" src="/images/MummyMeatballs3.jpg" />{% post_link MummyMeatballs Mummy Meatballs %}</td>
     </tr>
     <tr>
-        <td>{% post_link MeltingWitchBrownies Melting Witch Brownies %}</td>
+        <td><img class="index-image" src="/images/MeltingWitchBrownies3.jpg" />{% post_link MeltingWitchBrownies Melting Witch Brownies %}</td>
     </tr>
     <tr>
-        <td>{% post_link PukingPumpkinPasta Puking Pumpkin Pasta %}</td>
+        <td><img class="index-image" src="/images/PukingPumpkinPasta1.jpg" />{% post_link PukingPumpkinPasta Puking Pumpkin Pasta %}</td>
     </tr>
     <tr>
-        <td>{% post_link PumpkinCheeseball Pumpkin Cheeseball %}</td>
+        <td><img class="index-image" src="/images/PumpkinCheeseball9.jpg" />{% post_link PumpkinCheeseball Pumpkin Cheeseball %}</td>
     </tr>
     <tr>
-        <td>{% post_link PumpkinPretzels Pumpkin Pretzels %}</td>
+        <td><img class="index-image" src="/images/PumpkinPretzels.jpg" />{% post_link PumpkinPretzels Pumpkin Pretzels %}</td>
     </tr>
     <tr>
-        <td>{% post_link SkeletonCakes Skeleton Cakes %}</td>
+        <td><img class="index-image" src="/images/SkeletonCakes6.jpg" />{% post_link SkeletonCakes Skeleton Cakes %}</td>
     </tr>
 </table>
 
@@ -88,9 +88,9 @@ date: 2022-04-08 20:11:53
         <th>Recipe</th>
     </tr>
     <tr>
-        <td>{% post_link LeprechaunHatCakes Leprechaun Hat Cakes %}</td>
+        <td><img class="index-image" src="/images/LeprechaunHatCakes12.jpg" />{% post_link LeprechaunHatCakes Leprechaun Hat Cakes %}</td>
     </tr>
     <tr>
-        <td>{% post_link LuckyCharmsBars Lucky Charms Bars %}</td>
+        <td><img class="index-image" src="/images/LuckyCharmsBars6.jpg" />{% post_link LuckyCharmsBars Lucky Charms Bars %}</td>
     </tr>
 </table>
