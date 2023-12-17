@@ -30,6 +30,9 @@ date: 2022-04-08 20:11:53
     <tr>
         <td><img class="index-image" src="/images/PeppermintMeringueCookies1.jpg" />{% post_link PeppermintMeringueCookies Peppermint Meringue Cookies %}</td>
     </tr>
+    <tr>
+        <td><img class="index-image" src="/images/PeppermintSugarCookies10.jpg" />{% post_link PeppermintSugarCookies Peppermint Sugar Cookies %}</td>
+    </tr>
 </table>
 
 <h3>Easter</h3>
