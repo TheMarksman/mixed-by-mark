@@ -25,6 +25,9 @@ date: 2022-04-08 20:11:53
         <th>Recipe</th>
     </tr>
     <tr>
+        <td><img class="index-image" src="/images/ChocolatePresents1.jpg" />{% post_link ChocolatePresents Chocolate Presents %}</td>
+    </tr>
+    <tr>
         <td><img class="index-image" src="/images/GingerbreadFudge6.jpg" />{% post_link GingerbreadFudge Gingerbread Fudge %}</td>
     </tr>
     <tr>
