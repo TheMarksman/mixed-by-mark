@@ -31,6 +31,9 @@ date: 2022-04-08 20:11:53
         <td><img class="index-image" src="/images/MeltingSnowmenCookies5.jpg" />{% post_link MeltingSnowmenCookies Melting Snowmen Cookies %}</td>
     </tr>
     <tr>
+        <td><img class="index-image" src="/images/OrnamentOreos2.jpg" />{% post_link OrnamentOreos Ornament Oreos %}</td>
+    </tr>
+    <tr>
         <td><img class="index-image" src="/images/PeppermintMeringueCookies1.jpg" />{% post_link PeppermintMeringueCookies Peppermint Meringue Cookies %}</td>
     </tr>
     <tr>
