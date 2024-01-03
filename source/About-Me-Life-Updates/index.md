@@ -2,6 +2,7 @@
 title: About Me & Life Updates
 date: 2022-04-08 20:12:31
 ---
+01/03/2024 {% post_link NewYears2024 Happy New Year!! %}
 12/25/2023 {% post_link Christmas2023 Merry Christmas!! %}
 11/23/2023 {% post_link Thanksgiving2023 Happy Thanksgiving!! %}
 10/31/2023 {% post_link Halloween2023 Happy Halloween!! %}
