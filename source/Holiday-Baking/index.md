@@ -2,7 +2,28 @@
 title: Holiday Baking
 date: 2022-04-08 20:11:53
 ---
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
+<a class="index-btn" href="#July4jump"> 
+    4<sup>th</sup> of July
+</a> |
+<a class="index-btn" href="#Christmasjump"> 
+    Christmas
+</a> |
+<a class="index-btn" href="#Easterjump"> 
+    Easter
+</a> |
+<a class="index-btn" href="#Halloweenjump"> 
+    Halloween
+</a> |
+<a class="index-btn" href="#StPatrickjump"> 
+    St. Patrick's Day
+</a> |
+<a class="index-btn" href="#ValentinesDayjump"> 
+    Valentine's Day
+</a> 
+</div>
 
+<div id="July4jump"></div>
 <h3>4<sup>th</sup> of July</h3>
 <table>
     <tr>
@@ -19,6 +40,7 @@ date: 2022-04-08 20:11:53
     </tr>
 </table>
 
+<div id="Christmasjump"></div>
 <h3>Christmas</h3>
 <table>
     <tr>
@@ -44,6 +66,7 @@ date: 2022-04-08 20:11:53
     </tr>
 </table>
 
+<div id="Easterjump"></div>
 <h3>Easter</h3>
 <table>
     <tr>
@@ -60,6 +83,7 @@ date: 2022-04-08 20:11:53
     </tr>
 </table>
 
+<div id="Halloweenjump"></div>
 <h3>Halloween</h3>
 <table>
     <tr>
@@ -94,6 +118,7 @@ date: 2022-04-08 20:11:53
     </tr>
 </table>
 
+<div id="StPatrickjump"></div>
 <h3>St. Patrick's Day</h3>
 <table>
     <tr>
@@ -106,3 +131,10 @@ date: 2022-04-08 20:11:53
         <td><img class="index-image" src="/images/LuckyCharmsBars6.jpg" />{% post_link LuckyCharmsBars Lucky Charms Bars %}</td>
     </tr>
 </table>
+
+<div id="ValentinesDayjump"></div>
+<h3>Valentine's Day</h3>
+Coming Soon! 
+
+<br>
+<br>

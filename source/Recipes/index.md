@@ -2,6 +2,43 @@
 title: Recipes
 date: 2022-04-07 20:09:24
 ---
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
+<a class="index-btn" href="#appetizersjump"> 
+    Appetizers
+</a> |
+<a class="index-btn" href="#barsjump"> 
+    Bars
+</a> |
+<a class="index-btn" href="#breadsjump"> 
+    Breads & Biscotti
+</a> |
+<a class="index-btn" href="#cakesjump"> 
+    Cakes
+</a> |
+<a class="index-btn" href="#candiesjump"> 
+    Candies
+</a> |
+<a class="index-btn" href="#cookiesjump"> 
+    Cookies
+</a> |
+<a class="index-btn" href="#cupcakesjump"> 
+    Cupcakes
+</a> |
+<a class="index-btn" href="#cupsjump"> 
+    Dessert Cups
+</a> |
+<a class="index-btn" href="#doughnutsjump"> 
+    Doughnuts
+</a> |
+<a class="index-btn" href="#pastriesjump"> 
+    Pastries & Tarts
+</a> |
+<a class="index-btn" href="#piesjump"> 
+    Pies
+</a>
+</div>
+
+<div id="appetizersjump"></div>
 <h3>Appetizers</h3>
 <table>
     <tr>
@@ -71,6 +108,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="barsjump"></div>
 <h3>Bars</h3>
 <table>
     <tr>
@@ -110,6 +148,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="breadsjump"></div>
 <h3>Breads & Biscotti</h3>
 <table>
     <tr>
@@ -143,6 +182,7 @@ date: 2022-04-07 20:09:24
         <td>White chocolate, Cranberry Almond Crunch cereal</td>
 </table>
 
+<div id="cakesjump"></div>
 <h3>Cakes</h3>
 <table>
     <tr>
@@ -182,6 +222,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="candiesjump"></div>
 <h3>Candies</h3>
 <table>
     <tr>
@@ -216,6 +257,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="cookiesjump"></div>
 <h3>Cookies</h3>
 <table>
     <tr>
@@ -335,6 +377,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="cupcakesjump"></div>
 <h3>Cupcakes</h3>
 <table>
     <tr>
@@ -354,6 +397,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="cupsjump"></div>
 <h3>Dessert Cups</h3>
 <table>
     <tr>
@@ -378,6 +422,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="doughnutsjump"></div>
 <h3>Doughnuts</h3>
 <table>
     <tr>
@@ -397,6 +442,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="pastriesjump"></div>
 <h3>Pastries & Tarts</h3>
 <table>
     <tr>
@@ -421,6 +467,7 @@ date: 2022-04-07 20:09:24
     </tr>
 </table>
 
+<div id="piesjump"></div>
 <h3>Pies</h3>
 <table>
     <tr>
