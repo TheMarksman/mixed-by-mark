@@ -10,6 +10,8 @@ tags:
 No brown sugar? Or just not enough? 
 I've run into this problem many times. I decide I just want to make one more batch of cookies, but my brown sugar container is mostly empty. So now what? 
 
+<!--more-->
+
 Well, good news: You can make your own brown sugar at home! 
 All you need is white granulated sugar and molasses. 
 

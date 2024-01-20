@@ -8,6 +8,8 @@ tags:
 
 Out of powdered sugar, but need it for your baking?! 
 
+<!--more-->
+
 I'm sure every baker has run into this problem at least once, me included. 
 There have been several times where I wanted to make an additional batch of icing for a cake or cupcakes. But then I didn't have enough powdered sugar to make it. In my experience, I typically need more icing than a recipe calls for, and I forget to factor in the ingredients for an additional batch of icing when I'm doing my grocery shopping. 
 
