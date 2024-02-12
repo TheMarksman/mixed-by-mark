@@ -134,7 +134,14 @@ date: 2022-04-08 20:11:53
 
 <div id="ValentinesDayjump"></div>
 <h3>Valentine's Day</h3>
-Coming Soon! 
+<table>
+    <tr>
+        <th>Recipe</th>
+    </tr>
+    <tr>
+        <td><img class="index-image" src="/images/HiddenHeartCake2.jpg" />{% post_link HiddenHeartCake Hidden Heart Cake %}</td>
+    </tr>
+</table>
 
 <br>
 <br>
