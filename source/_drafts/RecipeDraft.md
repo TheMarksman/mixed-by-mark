@@ -27,6 +27,8 @@ Detailed text
     {% asset_img side-by-side CobbDip3.jpg %}
 </div>
 
+{% post_link RaspberryWhip Raspberry Whip %}
+
 <br>
 </div>
 

@@ -142,6 +142,9 @@ date: 2022-04-08 20:11:53
         <td><img class="index-image" src="/images/HiddenHeartCake2.jpg" />{% post_link HiddenHeartCake Hidden Heart Cake %}</td>
     </tr>
     <tr>
+        <td><img class="index-image" src="/images/RaspberryWhip8.jpg" />{% post_link RaspberryWhip Raspberry Whip %}</td>
+    </tr>
+    <tr>
         <td><img class="index-image" src="/images/ValentineChocolates9.jpg" />{% post_link ValentineChocolates Valentine Chocolates %}</td>
     </tr>
 </table>
