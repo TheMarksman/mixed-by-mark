@@ -396,6 +396,11 @@ date: 2022-04-07 20:09:24
         <td>Bananas, Cocoa powder, Peanut butter</td>
     </tr>
     <tr>
+        <td>{% post_link DarkChocolateCupcakes Dark Chocolate Cupcakes %}</td>
+        <td>15-18 minutes</td>
+        <td>Dark chocolate chips, Dark cocoa powder, Coffee</td>
+    </tr>
+    <tr>
         <td>{% post_link SmoresCupcakes S'mores Cupcakes %}</td>
         <td>12-15 minutes</td>
         <td>Graham crackers, Hershey's bars, Mini marshmallows</td>
