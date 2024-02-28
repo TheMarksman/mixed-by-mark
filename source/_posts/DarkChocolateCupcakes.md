@@ -65,7 +65,7 @@ Bake the cupcakes for 15-18 minutes, until you can insert a toothpick in the mid
 Once the cupcakes are fully cooled, you can frost them with any frosting you choose. For simplicity, I just bought a couple cans of white frosting from the grocery store and used that. But, I put the frosting in my stand mixer with the whisk attachment and whisked it for a few minutes. This allowed the frosting to get extra fluffy and not as thick. This is also a good tip if you're not sure you have enough icing and you're trying to stretch it a little. 
 <div style="display:flex;">
     {% asset_img side-by-side DarkChocolateCupcakes15.jpg %}
-    {% asset_img side-by-side DarkChocolateCupCakes14.jpg %}
+    {% asset_img side-by-side DarkChocolateCupcakes14.jpg %}
 </div>
 
 <br>
