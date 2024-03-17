@@ -130,6 +130,12 @@ date: 2022-04-08 20:11:53
     <tr>
         <td><img class="index-image" src="/images/LuckyCharmsBars6.jpg" />{% post_link LuckyCharmsBars Lucky Charms Bars %}</td>
     </tr>
+    <tr>
+        <td><img class="index-image" src="/images/LuckyCharmsMintCookies8.jpg" />{% post_link LuckyCharmsMintCookies Lucky Charms Mint Cookies %}</td>
+    </tr>
+    <tr>
+        <td><img class="index-image" src="/images/PotOfGoldOreos6.jpg" />{% post_link PotOfGoldOreos Pot of Gold Oreos %}</td>
+    </tr>
 </table>
 
 <div id="ValentinesDayjump"></div>

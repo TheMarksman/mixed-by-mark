@@ -6,7 +6,8 @@ tags:
 
 {% asset_img top-image LuckyCharmsMintCookies8.jpg %}
 <div class="post-body">
-Happy St. Patrick's Day! These cookies are a fun, festive treat for your family to enjoy. 
+Happy St. Patrick's Day! 
+These cookies are a fun, festive treat for your family to enjoy. 
 
 <br>
 <!--more-->
@@ -15,6 +16,10 @@ Happy St. Patrick's Day! These cookies are a fun, festive treat for your family 
     Jump to Recipe
 </a>
 
+<br>
+<br>
+<br>
+<br>
 These Lucky Charms Mint Cookies are very minty and extremely sweet. The kids will love them. 
 They are one of those cookies where you won't be able to eat too many. 
 
