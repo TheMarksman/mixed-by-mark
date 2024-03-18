@@ -1,8 +1,9 @@
 ---
 title: Happy St. Patrick's Day!!
-date: 2024-03-17
+date: 2024-03-17 00:00:00
 tags:
 ---
+
 {% asset_img top-image StPatricksDay2024-4.jpg %}
 <div class="post-body">
 Happy St. Patrick's Day!! 
@@ -10,9 +11,18 @@ Happy St. Patrick's Day!!
 <br>
 <!--more-->
 
+<br>
 We didn't do much for the holiday, mostly just had a relaxing day at home. 
 Elayne had her swim lessons this morning, which she loves! And then we went out for a family breakfast. But other than that, we hung around the house, playing and having family time. 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 We played outside for a while today. Elayne recently got a tricycle, and so she's trying to learn how to peddle. And in the meantime, she's loving having me and Tommy push her around on it. And every time we go outside, we have to draw with some chalk, really meaning, Mommy draws whatever Elayne wants 😂
 <div style="display:flex;">
     {% asset_img side-by-side StPatricksDay2024-5.jpg %}
