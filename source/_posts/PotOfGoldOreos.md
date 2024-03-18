@@ -12,8 +12,18 @@ These Pot of Gold Oreos are a sweet, delicious, festive treat for your St. Patri
 <br>
 <!--more-->
 
+<br>
 I know it's not typical to have a St. Patrick's Day party or anything, but these treats are fun for coworkers, school festivities, or just to have around the house. 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div style="display:flex;">
 You do need to melt chocolate on the stove, and you have to be careful dipping the Oreos. So young kids may not be able to help much. But older kids may enjoy making them with you. And all kids can enjoy eating them! 
 <div>

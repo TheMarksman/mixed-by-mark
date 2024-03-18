@@ -1,73 +1,34 @@
 ---
-title: Title
-date: YYYY-MM-DD
+title: Happy St. Patrick's Day!!
+date: 2024-03-17
 tags:
 ---
-{% asset_img top-image PretzelTreats.jpg %}
+{% asset_img top-image StPatricksDay2024-4.jpg %}
 <div class="post-body">
-Short description
+Happy St. Patrick's Day!! 
 
 <br>
 <!--more-->
 
-<a class="jump-to-recipe-btn" href="#recipejump"> 
-    Jump to Recipe
-</a>
+We didn't do much for the holiday, mostly just had a relaxing day at home. 
+Elayne had her swim lessons this morning, which she loves! And then we went out for a family breakfast. But other than that, we hung around the house, playing and having family time. 
 
-Detailed text
-
+We played outside for a while today. Elayne recently got a tricycle, and so she's trying to learn how to peddle. And in the meantime, she's loving having me and Tommy push her around on it. And every time we go outside, we have to draw with some chalk, really meaning, Mommy draws whatever Elayne wants 😂
 <div style="display:flex;">
-<div>
-    {% asset_img floating-image ButterCrisco.jpg %}
-</div>
+    {% asset_img side-by-side StPatricksDay2024-5.jpg %}
+    {% asset_img side-by-side StPatricksDay2024-6.jpg %}
 </div>
 
+We also spent quite a while on Elayne's bounce house. Elayne had a blast! She was bouncing all over the place, laughing the whole time. And she kept throwing balls at me and Tommy, so that we would throw them back at her. It was a good time 😊
 <div style="display:flex;">
-    {% asset_img side-by-side CobbDip2.jpg %}
-    {% asset_img side-by-side CobbDip3.jpg %}
+    {% asset_img side-by-side StPatricksDay2024-2.jpg %}
+    {% asset_img side-by-side StPatricksDay2024-1.jpg %}
 </div>
 
-{% post_link RaspberryWhip Raspberry Whip %}
+And, of course, Elayne and I did some baking for St. Patrick's Day! Because you shouldn't have a holiday without some baking! 
+We made some {% post_link PotOfGoldOreos Pot of Gold Oreos %} and {% post_link LuckyCharmsMintCookies Lucky Charms Mint Cookies %}. Check them out! 
 
 <br>
-</div>
-
-<div id="recipejump"></div>
-<div id="recipe">
-    <div class="recipe-box">
-        <div class="recipe-title-box">
-            <div>
-                <div class="recipe-title-box-title">
-                    <div class="recipe-title-box-header">Title</div>
-                </div>
-                <p class="recipe-title-box-title" style="font-family: Arial;">Yield: </p>
-            </div>
-            <!-- {% asset_img recipe-title-box-img ButterCrisco.jpg %} -->
-            <button class="print-recipe"
-                    type="button"
-                    onclick="printDIV('recipe')" >
-                Print Recipe
-            </button>
-        </div>
-        <p style="font-size:150%;"><b>Ingredients</b></p>
-        <ul class="post-body">
-                <li>Ingredient1</li>
-                <li>Ingredient2</li>
-                <li>Ingredient3</li>
-        </ul>
-        <hr style="height:1px;background-color:rgb(189, 189, 189) ">
-        <p style="font-size:150%;"><b>Directions</b></p>
-        <ol class="post-body">
-            <li>Step1</li>
-            <li>Step2</li>
-            <li>Step3</li> 
-        </ol> 
-        <hr style="height:1px;background-color:rgb(189, 189, 189) ">
-        <p style="font-size:150%;"><b>Notes</b></p>
-        <ol class="post-body">
-            <li>Note1</li>
-        </ol>
-    </div>
 </div>
 
 <br>
