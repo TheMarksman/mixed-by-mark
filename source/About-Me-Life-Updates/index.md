@@ -2,6 +2,8 @@
 title: About Me & Life Updates
 date: 2022-04-08 20:12:31
 ---
+03/31/2024 {% post_link Easter2024 Happy Easter!! %}
+03/17/2024 {% post_link StPatricksDay2024 Happy St. Patrick's Day!! %}
 02/14/2024 {% post_link ValentinesDay2024 Happy Valentine's Day!! %}
 01/03/2024 {% post_link NewYears2024 Happy New Year!! %}
 12/25/2023 {% post_link Christmas2023 Merry Christmas!! %}

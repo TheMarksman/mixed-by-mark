@@ -76,6 +76,9 @@ date: 2022-04-08 20:11:53
         <td><img class="index-image" src="/images/EasterCake1.jpg" />{% post_link EasterCake Easter Nest Cake %}</td>
     </tr>
     <tr>
+        <td><img class="index-image" src="/images/EasterCookieBars11.jpg" />{% post_link EasterCookieBars Easter Cookie Bars %}</td>
+    </tr>
+    <tr>
         <td><img class="index-image" src="/images/EasterSugarCookies5.jpg" />{% post_link EasterSugarCookies Easter Sugar Cookies %}</td>
     </tr>
     <tr>
