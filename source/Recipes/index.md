@@ -157,6 +157,11 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
+        <td>{% post_link AppleBread Apple Bread %}</td>
+        <td>45-50 minutes</td>
+        <td>Apples, Cinnamon, Powdered sugar</td>
+    </tr>
+    <tr>
         <td>{% post_link CaramelRolls Caramel Rolls %}</td>
         <td>15-18 minutes</td>
         <td>Crescent roll dough, Cinnamon</td>
@@ -459,6 +464,11 @@ date: 2022-04-07 20:09:24
         <th>Recipe</th>
         <th>Bake Time</th>
         <th>Featured Ingredient(s)</th>
+    </tr>
+    <tr>
+        <td>{% post_link BerriesAndCreamTart Berries & Cream Tart %}</td>
+        <td>10 minutes</td>
+        <td>Blueberries, Raspberries, Heavy Cream, Unflavored gelatin, Cocoa powder</td>
     </tr>
     <tr>
         <td>{% post_link CherryVanillaTart Cherry Vanilla Tart %}</td>
