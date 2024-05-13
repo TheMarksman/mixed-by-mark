@@ -137,6 +137,11 @@ date: 2022-04-07 20:09:24
         <td>Rice Krispies, Marshmallows, Graham crackers, Lime, White chocolate chips</li>
     </tr>
     <tr>
+        <td>{% post_link LemonSugarCookieBars Lemon Sugar Cookie Bars %}</td>
+        <td>40 minutes</td>
+        <td>Lemon juice, Lemon zest, Cream cheese</td>
+    </tr>
+    <tr>
         <td>{% post_link NutellaShortbreadBars Nutella Shortbread Bars %}</td>
         <td>50 minutes</td>
         <td>Nutella</td>
