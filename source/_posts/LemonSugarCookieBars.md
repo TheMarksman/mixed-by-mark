@@ -15,6 +15,9 @@ Looking for a yummy desseert that will impress your guests? These Lemon Sugar Co
     Jump to Recipe
 </a>
 
+<br>
+<br>
+<br>
 What I love about these bars is that the sweetness prevents the lemon from being over-powering. You don't have to absolutely love lemon in order to enjoy this dessert. 
 
 These bars are so very easy to make, and do not require all that many ingredients. 
