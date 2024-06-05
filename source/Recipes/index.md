@@ -117,6 +117,11 @@ date: 2022-04-07 20:09:24
         <th>Featured Ingredient(s)</th>
     </tr>
     <tr>
+        <td>{% post_link Caramelitas Caramelitas %}</td>
+        <td>25 minutes</td>
+        <td>Old-fashioned oats, Caramels, Chocolate chips</td>
+    </tr>
+    <tr>
         <td>{% post_link ChocCaramelEspressoBars Chocolate Caramel Espresso Bars %}</td>
         <td>10 minutes</td>
         <td>Graham crackers, Chocolate chips, Espresso powder</td>
